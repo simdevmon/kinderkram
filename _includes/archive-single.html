@@ -10,7 +10,8 @@
 {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<!-- Large devices -->
+<div class="only-lg {{ include.type | default: "list" }}__item">
     <article style="vertical-align: top;" class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
         <div style="float: left;">
             <img src=
@@ -22,7 +23,7 @@
                  alt="" style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
         </div>
         <div style="vertical-align: top; margin-left: 175px; width: 500px;">
-            <h2 class="archive__item-title" itemprop="headline">
+            <h2 class="text-red archive__item-title" itemprop="headline">
                 {% if post.link %}
                 <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
                 {% else %}
@@ -36,5 +37,31 @@
         </div>
         <div style="clear: both;"></div>
         <p></p>
+    </article>
+</div>
+<!-- Medium devices -->
+<div class="only-md {{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <div class="archive__item-teaser" style="text-align: center; margin-top: 10px;">
+            <img src=
+                 {% if teaser contains "://" %}
+                 "{{ teaser }}"
+                 {% else %}
+                 "{{ teaser | absolute_url }}"
+                 {% endif %}
+                 alt=""
+                 style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
+        </div>
+        <h2 class="archive__item-title" itemprop="headline">
+            {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+            <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+            {% endif %}
+        </h2>
+        {% if post.read_time %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+        {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>{% endif %}
     </article>
 </div>
