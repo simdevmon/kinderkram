@@ -3,7 +3,7 @@ title:  "{::nomarkdown}7.{:/} Woche: Zauberhafte Nebenwirkungen"
 date:   2014-12-14 10:00:00 +0200
 header:
   teaser: ../../../../../images/ssw07_teaser.jpg
-tags:
+tags: 
 ---
 **​Ich bin immer noch überwältigt! Wir bekommen wirklich ein Baby! Wie krass ist das denn? Ein kleiner Mensch wird mich in absehbarer Zeit „Mama“ nennen.**
 
