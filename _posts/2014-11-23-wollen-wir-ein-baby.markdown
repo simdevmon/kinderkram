@@ -8,7 +8,7 @@ tags:
 **Wünsche ich mir ein Baby? Ich habe immer gedacht, dass ich eines Tages Nachwuchs in die Welt setzen werde. Einfach, weil Menschen das eben so machen. Aber so richtig vorstellen, konnte ich mir das lange nicht. Dann lernte ich aber "den Richtigen" kennen und jetzt ist die Sache mit den Kindern ein Thema...**
 
 <figure>
-  <img src="../../../../../images/wollen_wir_ein_baby_teaser.jpg" alt="">
+  <img src="../../../../../images/wollen_wir_ein_baby.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
