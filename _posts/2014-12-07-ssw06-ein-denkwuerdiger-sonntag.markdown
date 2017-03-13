@@ -2,7 +2,7 @@
 title:  "{::nomarkdown}6.{:/} Woche: Ein denkwürdiger Sonntag"
 date:   2014-12-07 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw06_test_teaser.jpg
+  teaser: ../../../../../images/ssw06_test_teaser.png
 tags:
 ---
 **Nach dem negativen Schwangerschaftstest letzten Monat, mache ich mir dieses Mal weniger Sorgen. Ich bin wieder überfällig aber dadurch, dass es beim letzten Mal halt auch viel zu spät war als normal, halte ich dieses Mal schön den Ball flach. Bloß keine Panik.**

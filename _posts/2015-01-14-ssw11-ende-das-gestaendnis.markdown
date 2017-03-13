@@ -1,0 +1,25 @@
+---
+title:  "{::nomarkdown}11.{:/} Woche: Das Geständnis - Wie beichtet man dem Chef eine Schwangerschaft?"
+date:   2015-01-14 10:00:00 +0200
+header:
+  teaser: ../../../../../images/ssw11_gestaendnis_teaser.png
+tags:
+---
+**Ich wollte nicht, dass IRGENDJEMAND (außer meinem Freund) von dem Baby erfährt, bevor nicht sicher ist, dass es auch auf die Welt kommt. Die kritischen ersten Wochen sind fast überstanden und das wachsende Bäuchlein kann ich bald auch nicht mehr mit zu vielen Plätzchen rechtfertigen. Aber wie sage ich es am besten?**
+
+<figure>
+  <img src="../../../../../images/ssw11_gestaendnis.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Das Versteckspiel in der Arbeit bin ich leid. Ich rechne jeden Tag damit, dass ich auffliege. Manche Kollegen gucken schon immer so komisch auf meinen Bauch. Und ich arbeite in einem Medienunternehmen. Sobald hier ein Gerücht aufkommt, macht es schneller die Runde, als man "Klatschpresse" sagen kann. Und bevor es mein Chef durch irgendwelche unqualifizierten Kommentare mitbekommt, sage ich es ihm lieber selbst. Und zwar BEVOR alle anderen es wissen. Oder zu wissen glauben. Aber das macht in dem Fall kaum einen Unterschied. Nur, wann sage ich es ihm? Und wie?
+
+Nächste Woche mache ich mit meinem Schatz eine Woche Urlaub auf Fuerteventura. Da geht’s schon mal nicht. Das haben wir am Wochenende spontan gebucht, weil es günstig war, wir gerne reisen und ich demnächst nicht mehr reisefähig bin. Die meisten Fluggesellschaften nehmen einen nämlich ab spätestens der 34. Schwangerschaftswoche nicht mehr mit. Und viele Länder lassen einen auch mit minikleinem Babybauch nicht rein. In Singapur zum Beispiel, braucht man schon ab dem sechsten Monat ein ärztliches Attest. Außerdem stelle ich mir vor, dass es mit großem Bauch auch nicht mehr so megatoll ist, ewig im Flieger zu sitzen. Und dann wird ja auch noch über die Strahlenbelastung diskutiert… Aber nachgewiesen ist beim Fliegen kein negativer Aspekt für das entstehende Leben... Wahhh! Um soviel Zeug muss man sich Gedanken machen!
+
+Letztlich muss das aber jede Mama für sich und ihr Kleines entscheiden. Ich jedenfalls werde fliegen. Aber vorher sage ich es noch meinem Chef. Ich habe nämlich Angst, dass mein Bauch in meiner Urlaubswoche wieder einen riesigen Wachstumsschub hat und meine Schwangerschaft dann wirklich offensichtlich ist. Also haue ich ihm einen Termin in den Kalender. Ich formuliere mit Absicht so, dass er denken könnte, ich will kündigen. Dann ist der Schock beim eigentlichen Geständnis nicht so groß, hab ich mir überlegt.
+
+Start des Gespräches! Ich leite unumwunden ein mit den Worten: „Du hast es vielleicht schon vermutet und es ist richtig. Ich werde euch verlassen.“ Er sieht nicht sonderlich überrascht aus. Nur ein bisserl traurig (was ich auch hoffe, sollte ich wirklich einmal kündigen!) und antwortet nur, dass er sich sowas schon gedacht hat . Dann möchte er wissen, was ich denn dann statt meiner Arbeit hier bei der Antenne machen werde und ich antworte: „Mal gucken. In erster Linie kümmere ich mich wohl ums Baby.“ Und wirklich, der darauf folgende Gesichtsausdruck ist Gold wert! Er ist völlig perplex! Damit hat er nicht gerechnet. Das sehe ich ihm an. Und darüber freue ich mich diebisch.
+
+Mein Chef gratuliert mir. Und ich glaube, dass er es aufrichtig meint. Wir besprechen noch kurz ein paar Eckdaten wie den Geburtstermin und wann ich in Mutterschutz gehe und ich ringe ihm das Versprechen ab, es keiner Menschenseele zu erzählen. Und er hat Fragen, über die ich mir noch gar keine Gedanken gemacht habe. Wann gehe ich in Elternzeit und wie lange? Ob ich jetzt noch Bereitschaft machen kann? Puh! Keine Ahnung. Aber das finde ich sicher noch raus.
+
+Dann kommt ihm eine Idee. "Wir sind ein Familiensender. Hast du Lust jede Woche zu schreiben, wie es dir mit der Schwangerschaft so geht? Wir haben eh schon überlegt, einen Blog zum Thema zu starten. Mach du das doch einfach!" Uff! Einen Blog? Über mein Baby und Schwangerschafts-Probleme und Freuden? Das ist schon ganz schön intim. Andererseits könnte ich mir meine ganzen Sorgen von der Seele schreiben und tatsächlich halte ich seit dem Schwangerschaftstest schon all meine Gedanken fest. Das werde ich meinem Baby später zum 18. Geburtstag schenken, hab ich mir überlegt. Damit es genau weiß, was die Mama für das Kleine schon gefühlt hat, als es noch ein kleiner Zellhaufen war. Also gut. Warum eigentlich nicht? Dann brettere ich morgen gleich die Beiträge für die Wochen sechs bis elf hier rein. Denn gerade die ersten Wochen waren furchtbar und aufregend. Da gab es viel zu schreiben. Inzwischen habe ich mich ja immerhin schon an den Gedanken gewöhnt. Und wer weiß? Vielleicht finden es andere (werdende) Mütter und Väter ja auch spannend. Oder Kinder. Oder Leute mit Kinderwunsch. Aber das muss bis morgen warten. Für heute bin ich erst einmal erleichtert. Ich hatte keine Ahnung, wie sehr es mich tatsächlich belastet hat, meinem Chef die Schwangerschaft zu verschweigen. Ich bin erleichtert. Und übermorgen starte ich erst einmal in unseren Urlaub. Der erste Urlaub mit Baby quasi. Ich berichte dann, wie es war!

@@ -1,0 +1,23 @@
+---
+title:  "{::nomarkdown}21.{:/} Woche: Lebst du noch?"
+date:   2015-03-21 10:00:00 +0200
+header:
+  teaser: ../../../../../images/ssw21_wecker_teaser.png
+tags:
+---
+**Angeblich spürt man die ersten Kindsbewegungen beim ersten Baby ab etwa der 18. Woche. Bei mir gab es zu diesem Zeitpunkt kein Lebenszeichen...**
+
+<figure>
+  <img src="../../../../../images/ssw21_wecker.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Ich mache mir Sorgen. Hat mein Baby den Stress der letzten Wochen gut überstanden? Gesundheitlich hatten wir ja wirklich eine Pechsträhne. Meine Kleine und ich. Und jetzt habe ich manchmal das Gefühl, gar nicht richtig schwanger zu sein. Klingt blöd. Schließlich habe ich einen kleinen Babybauch aber auch der kommt mir diese Woche irgendwie winzig vor. Und ich werde ständig gefragt ob ich mein Baby spüren kann oder ob es oft tritt und ob sie mal fühlen dürfen…
+
+Am liebsten würde ich sagen: Ja! Ständig. Mein Gott, hab ich ein aktives Baby! Aber das stimmt nicht. Naja, vielleicht ja doch und ich bin zu doof um es zu merken. Gefühlskalt irgendwie. Oder der kleine Mensch schwimmt da tot in meinem Bauch rum und ich weiß nichts davon. HILFE! Das ist schrecklich! Angeblich merkt man beim ersten Kind, was ja bei mir der Fall ist, relativ spät die ersten Kindsbewegungen. Und wenn von spät die Rede ist, taucht in dem Zusammenhang öfter mal die 18. Woche auf. Na prima. Da bin ich jetzt aber mal sowas von drüber! Ich habe oft so ein leichtes Flattern im Bauch. Wie wenn man mit dem Auto über eine Bodendelle fährt. Aber mal im Ernst: Das könnte auch ein quer sitzender Furz sein. Vielleicht wünsche ich mir einfach so sehr mein Baby zu spüren, dass ich mir bei jeder Blähung einbilde, dass es auch ein Tritt sein könnte.
+
+Mein Freund wird langsam auch ungeduldig. Ich sehe ihm zumindest an, dass er enttäuscht ist wenn er die Hand auf meinen Bauch legt und, genau wie ich, nichts merkt… Natürlich habe ich wieder meinen anderen Freund, das Internet, befragt. Das hat mich allerdings noch mehr runtergezogen. Da berichten die Mädels nämlich dass sie bereits in der 15. Schwangerschaftswoche ganz eindeutig ihr Baby gefühlt haben oder halt in der 16. Woche… So spät wie bei mir scheint es nicht üblich zu sein. Und das beunruhigt mich total. Blöd ist nur, dass ich ja gar nichts machen kann um die Sache zu beschleunigen. Großer Mist!
+
+Ich haue mich frustriert auf die Couch und schaue mir trashige Sendungen an. Mir egal, was andere davon halten. Ich liebe Formate, bei denen ich nicht viel nachdenken muss. In meinem Hirn ist so schon immer so viel Action. Und während ich es schaffe ausnahmsweise mal nicht an mein Kind zu denken, ist es plötzlich da. *Donk* Ganz eindeutig. Sie hat mich getreten!!! Ich lege beide Hände auf den Bauch und warte ab. Ich werde belohnt. Da ist noch ein Tritt! Ich bin völlig aus dem Häuschen. So ein schönes Gefühl hatte ich selten. Und genau dieses Gefühl kann man gar nicht richtig beschreiben. Es ist einfach der Wahnsinn! Als wenn man ganz schrecklich aufgeregt wäre für ein paar Sekunden. Ganz komisch. Aber toll.
+
+Mittlerweile ist es drei Tage her dass ich meine Tochter zum ersten Mal gespürt habe. Und seitdem ist mein Rumpel-Kind gar nicht mehr ruhig. Sie strampelt und tritt richtig zuverlässig. Am liebsten den ganzen Vormittag über und dann kurz vorm Schlafengehen nochmal. Wenn ich mich nicht bewege, also am Schreibtisch sitze oder den Abend ausklingen lasse, veranstaltet die Kleine ein kleines Vortanzen in meinem Bauch. So lange die Mama in Bewegung ist, ist Ruhe im Karton. Spannend, oder? Jetzt sitze ich selig vor meinem Rechner, mein Baby rumpelt vor sich hin und wenn man ganz genau hinschaut, dann sieht man sogar die Dellen in der Bauchdecke wenn sie boxt. Die Kollegen halten mich wahrscheinlich für ein bisschen irre weil ich meinen Bauch so verliebt angrinse. Aber echt jetzt: Das ist mir sowas von egal!

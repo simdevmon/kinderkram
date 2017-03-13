@@ -1,0 +1,24 @@
+---
+title:  "Anfang {::nomarkdown}23.{:/} Woche: Wie wollt ihr es denn nennen?"
+date:   2015-04-04 10:00:00 +0200
+header:
+  teaser: ../../../../../images/ssw23_baby_name_teaser.png
+tags:
+---
+**Kunigunde, Peaches Princess oder lieber Lavinia-Laetizia? Ich hatte keine Ahnung, wie viele Vornamen es gibt. Also jedenfalls nicht so richtig. Doch seit ich mich näher mit dem Thema beschäftige, bin ich von Möglichkeiten und Unmöglichkeiten überfordert.**
+
+<figure>
+  <img src="../../../../../images/ssw23_baby_name.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Wenn ich ein Auto hätte, könnte ich mir auch so einen tollen Sticker auf die Heckscheibe pflastern :)
+Ich liebe ja die Vornamensstatistik, die jedes Jahr veröffentlicht wird. Denn einen Namen für mein Baby hatte ich schon immer im Hinterkopf. Allerdings will ich nicht, dass in der Schulklasse meiner Kleinen später drei weitere Mädels mit demselben Vornamen hocken. Daher schadet es nicht, sich die Hitliste der Deutschen mal anzugucken… Und beim letzten Mal war ich geschockt! Da stand nämlich tatsächlich - seit Jahren zum ersten Mal - MEIN Wunschname für mein Baby unter den Top 10. Tja. Damit fällt er jetzt aus meiner engeren Wahl. Aber so einen komplizierten, englischen oder Hauptsache ausgefallenen und einzigartigen Namen will ich ihr auch nicht geben. Die Sache will gut überlegt sein.
+
+Das Problem mit der Namensgebung: Es ist für immer. Meine Tochter wird ihr Leben lang mit ihrem Namen rumlaufen. Denn ändern darf sie ihn nur, wenn er sie nachweislich irgendwie beeinträchtigt. Und außerdem machen das nur ganz wenige Leute. Ich selbst war auch nie ein großer Fan meines eigenen Vornamens. Da es mich aber auch hätte schlimmer treffen können, will ich mich nicht beschweren. Fragen Sie mal den kleinen Napoleon, Silvester Rakete, Anneken Skywalker oder Jayvelyn Siegrid, Vyvyan Valeska Silke Gwendolyn Anneliese (das ist EIN Name!!) oder… Kein Scheiß. All diese Namen gibt es in Echt! Manche Eltern finden die super. Ich bevorzuge dann aber doch eher etwas Einfaches. Oder doch nicht? Denn es gibt ja noch einen Faktor zu berücksichtigen: Meinen Freund. Der hat schließlich 50 Prozent Mitspracherecht. Und genau an diesem Punkt wird es schwierig.
+
+Da jeder Mensch andere Erinnerungen und Erfahrungen an bestimmte Vornamen knüpft, sind wir uns bei ganz vielen Namen total uneinig. Mein Freund zum Beispiel hat einen guten Kumpel namens Daniel. Und kennt überhaupt nur nette Daniels. Daher wäre dieser Name für einen Jungen eine gute Option. Da mein Ex-Freund aber so heißt, kommt er für mich nicht in Frage. Ich zum Beispiel finde Leonie gut. Unsere Tochter (es ist ein Mädchen, also mache ich mir keine Gedanken mehr über Jungennamen) wird wahrscheinlich in den ersten Augusttagen geboren. Sie wird ziemlich sicher Sternzeichen Löwe. Da finde ich Leonie voll schön. Als ich das meinem Freund vorschlage, guckt er mich völlig entgeistert an. Das geht gar nicht, findet er. Die Tochter seines Chefs heiße auch so. Na klasse! Die Tochter des Chefs! Ich kenn‘ die nicht mal… Und genau so ging es bei uns tagelang weiter.
+
+Mittlerweile haben wir einen Namen. Wir haben jeder eine Liste gehabt mit Namen, die wir uns vorstellen können. Unter Zuhilfenahme des guten alten Internets. Schließlich sollte uns kein toller Vorname entgehen. Diese Listen haben wir abgeglichen und was wir doppelt hatten, also sowohl mir als auch ihm gefiel, kam in die engere Auswahl. Und dann war’s ziemlich einfach. Denn unser jeweiliger Favoritenname war deckungsgleich. Heißt: Wir hatten den gleichen Lieblingsnamen. Und den bekommt unser Baby dann. Und ist damit hoffentlich sehr glücklich.
+
+Wie wir sie nennen? Verrate ich sobald ich sie auf die Welt gequetscht habe. Fragen ist zwecklos. Wir verraten es absolut niemandem. Nicht meiner Mutter, nicht seiner Mutter, keinen Freunden, Arbeitskollegen, einfach niemanden. Weil wir keinen Bock haben auf Meinungsäußerung. Gelästert werden darf später. Jetzt muss ich mich nur zusammenreißen, dass ich mich nicht verplappere. Ich spreche meine kleine … nämlich immer mit Vornamen an.

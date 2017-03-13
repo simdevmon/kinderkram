@@ -2,7 +2,7 @@
 title:  "{::nomarkdown}9.{:/} Woche: Krank sein ist noch beschissener als sonst"
 date:   2014-12-28 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw09_krank_teaser.jpg
+  teaser: ../../../../../images/ssw09_krank_teaser.png
 tags:
 ---
 **Mir geht’s beschissen. Ehrlich. Ich kriege überhaupt keine Luft, meine Haut tut am ganzen Körper weh, ich hab einen kratzigen Hals, kann kaum schlucken und Kopfschmerzen hab ich auch wie Sau. Ein richtig schöner grippaler Infekt sagt der Arzt. Da kann man leider nix machen. Das muss man aussitzen.**

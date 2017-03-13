@@ -2,7 +2,7 @@
 title:  "{::nomarkdown}8.{:/} Woche: Der erste Arzttermin - Hallo Kaffeebohne"
 date:   2014-12-21 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw08_ultraschall_teaser.jpg
+  teaser: ../../../../../images/ssw08_ultraschall_teaser.png
 tags:
 ---
 **​Hui, heute bin ich gespannt wie ein Flitzebogen. Ich habe gleich nach dem Schwangerschaftstest einen Termin bei meiner Frauenärztin ausgemacht. Ich musste etwas mehr als zwei Wochen warten.**
