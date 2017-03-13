@@ -1,17 +1,17 @@
 ---
-title:  "Ende {::nomarkdown}10.{:/} Woche: Sieht das jemand?"
-date:   2015-01-07 10:00:00 +0200
+title:  "{::nomarkdown}XX.{:/} Title"
+date:   yyyy-MM-dd 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw06_test_teaser.jpg
+  teaser: ../../../../../images/ssw06_title_teaser.png
 tags:
 ---
 **​exerpt**
 
 <figure>
-  <img src="../../../../../images/image.jpg" alt="">
+  <img src="../../../../../images/title.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
-![](../../../../../images/bisserl_schwanger.jpg)
+![](../../../../../images/title.jpg)
 
 text
