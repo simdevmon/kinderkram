@@ -14,13 +14,15 @@
 <div class="only-lg {{ include.type | default: "list" }}__item">
     <article style="vertical-align: top;" class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
         <div style="float: left;">
-            <img src=
-                 {% if teaser contains "://" %}
-                 "{{ teaser }}"
-                 {% else %}
-                 "{{ teaser | absolute_url }}"
-                 {% endif %}
-                 alt="" style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
+            <a href="{{ post.url | absolute_url }}" rel="permalink">
+                <img src=
+                     {% if teaser contains "://" %}
+                     "{{ teaser }}"
+                     {% else %}
+                     "{{ teaser | absolute_url }}"
+                     {% endif %}
+                     alt="" style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
+            </a>
         </div>
         <div style="vertical-align: top; margin-left: 175px; width: 500px;">
             <h2 class="text-red archive__item-title" itemprop="headline">
@@ -43,14 +45,16 @@
 <div class="only-md {{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="archive__item-teaser" style="text-align: center; margin-top: 50px;">
-            <img src=
-                 {% if teaser contains "://" %}
-                 "{{ teaser }}"
-                 {% else %}
-                 "{{ teaser | absolute_url }}"
-                 {% endif %}
-                 alt=""
-                 style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
+            <a href="{{ post.url | absolute_url }}" rel="permalink">
+                <img src=
+                     {% if teaser contains "://" %}
+                     "{{ teaser }}"
+                     {% else %}
+                     "{{ teaser | absolute_url }}"
+                     {% endif %}
+                     alt=""
+                     style="width: 160px; height: 160px;  border-radius:50%; margin-right: 15px;">
+            </a>
         </div>
         <h2 class="archive__item-title" itemprop="headline">
             {% if post.link %}
