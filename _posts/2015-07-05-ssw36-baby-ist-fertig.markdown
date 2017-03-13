@@ -2,16 +2,15 @@
 title:  "{::nomarkdown}36.{:/} Woche: Baby ist fertig!"
 date:   2015-07-05 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw10_anfang_schlafmangel_teaser.png
+  teaser: ../../../../../images/ssw36_baby_fertig_teaser.png
 tags:
 ---
 **Ich stelle mir das "PLING" der Mikrowelle vor. Denn jetzt bin ich in der 36. Schwangerschaftswoche. 36 + 0 um genau zu sein, was bedeutet, dass ich diese Woche bereits beendet habe - also quasi schon 37. Woche... Aber ich zähle nur die vollendeten. Egal jetzt. PLING! Mein Baby ist fertig!**
 
 <figure>
-  <img src="../../../../../images/ssw18_anfang_kinderwagen.jpg" alt="">
+  <img src="../../../../../images/ssw36_baby_fertig.jpg" alt="">
   <figcaption></figcaption>
 </figure>
-![](../../../../../images/DSC02861.jpg)
 
 Ich wäre dann soweit. Vor dem Bettchen steht der gepackte Klinikkoffer.
 Ab sofort gilt es als voll entwickelt. Es hat die Lungenreife, genügend Speckpolster, Haare, Fingernägel, es kann verdauen und gucken und überhaupt alles, was man so können muss, wenn man jetzt auf die Welt käme. Was für ein erhebendes Gefühl!

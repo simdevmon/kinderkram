@@ -1,17 +1,32 @@
 ---
-title:  "Ende {::nomarkdown}10.{:/} Woche: Sieht das jemand?"
-date:   2015-01-07 10:00:00 +0200
+title:  "{::nomarkdown}Die Geburt: So habe ich mir das nicht vorgestellt...{:/}"
+date:   2015-08-05 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw06_test_teaser.jpg
+  teaser: ../../../../../images/die_geburt_teaser.png
 tags:
 ---
-**​exerpt**
+**Dieses Mal wird es ein längerer Text. Obwohl ich ihn schon so kurz wie möglich gehalten habe. Meine Tochter ist gerade einen Tag alt! Obwohl die Geburt eigentlich ein ganz frisches Erlebnis sein sollte, bekomme ich manche Einzelheiten nicht mehr auf die Reihe. Es war aber auch wirklich turbulent und am Ende sogar dramatisch...**
 
 <figure>
-  <img src="../../../../../images/image.jpg" alt="">
-  <figcaption></figcaption>
+  <img src="../../../../../images/die_geburt.jpg" alt="">
+  <figcaption>Mitten in der Nacht am Wehenschreiber. Da ging es mir noch ganz gut und ich hab dem Ganzen gelassen entgegen gesehen...</figcaption>
 </figure>
 
-![](../../../../../images/bisserl_schwanger.jpg)
+In der Klinik angekommen, werde ich gefragt wann, wie und warum ich glaube, einen Blasensprung gehabt zu haben. Ich bekomme Recht. Das war definitiv einer! Beim Ultraschall wird die Kleine zum letzten Mal außerhalb meines Bauches vermessen. Ihr Gewicht schätzt der Arzt auf 3300 Gramm. So grob über den Daumen. Am CTG im Kreißsaal angeschlossen sieht man, dass meine Wehen regelmäßig kommen. Nach der Untersuchung der Hebamme wissen wir, dass der Gebärmutterhals nur noch einen Zentimeter hat und der Muttermund bereits einen Zentimeter offen ist. Wir sollen nach Möglichkeit versuchen, ein wenig zu schlafen oder zumindest zu dösen. Denn bis es richtig ernst wird, sollen wohl noch ein paar Stunden vergehen.
 
-text
+An Schlaf kann ich kaum denken – obwohl ich körperlich völlig erledigt bin. Es ist jetzt kurz vor Mitternacht und ich hatte einen anstrengenden Tag. Ich finde es aber ziemlich witzig, dass meine Tochter tatsächlich am errechneten Termin kommt. Denn, dass es innerhalb der nächsten 24 Stunden passiert, zweifle ich nicht an . Während mein Liebster neben mir in einem Bett liegt, werden die Wehen immer schmerzhafter. Dazu kommt heftiger Durchfall. Klingt eklig, ist mir aber lieber als hinterher zusammen mit dem Baby noch was anderes den Ärzten oder der Hebamme entgegen zu schleudern. Außerdem ist es total normal. Die Wehen machen eben auch dem Darm zu schaffen. Liegt ja alles irgendwie nah beieinander.
+
+Gegen zwei Uhr werden die verdammten Wehen so heftig, dass ich auf allen Vieren am Boden knie. Ich habe Schüttelfrost und immer, wenn mir heiß ist, gehe ich auf dem nackten Fußboden. Wenn ich friere, wickle ich die Decke eng um mich. Das Problem ist nur, dass ich nicht mehr liegen kann. Denn in dieser Position bringen mich die Schmerzen um den Verstand. Sie sind überall. Im Unterleib, dem Rücken, im Kopf. Ich versuche den Schmerz weg zu atmen – so wie ich es im Geburtsvorbereitungskurs gelernt habe, aber das klappt nur so semi-gut... Mir ist kotzübel. Im wahrsten Sinne des Wortes. Ich krümme mich auf dem Bett und versuche gleichzeitig den Papierkorb zu treffen, wenn der Brechreiz wieder Überhand nimmt. Erstaunlich, dass das überhaupt geht. Ich trinke nur Wasser. Die letzte Mahlzeit war das gestrige Abendessen. Trotzdem bin ich überzeugt davon, dass ich gleich meine Tochter auf die Welt bringen kann. Um die Schmerzen besser auszuhalten, bekomme ich via Tropf Buscopan. Ich kann nicht behaupten, dass ich eine Wirkung spüre.
+
+Das Ganze geht bis in die frühen Morgenstunden. Der Muttermund hat sich in all der Zeit nur einen lumpigen Zentimeter mehr geweitet. Wir sind bei zwei von zehn der nötigen Zentimeter. Aber immerhin ist der Gebärmutterhals verstrichen. Eine Hebamme kommt und verfrachtet uns in einen anderen Kreißsaal. Mit Tageslicht, großem Fenster, endlich einem eigenen Klo (mit Tropf und CTG alle halbe Stunde über den Gang zu kriechen ist NICHT angenehm) und - meinem Highlight - einer Badewanne. In die gehe ich auch gleich und sofort sind die Wehen ein wenig erträglicher. Gegen acht Uhr morgens bin ich aber schon so verschrumpelt, dass ich wieder an Land wechsle. Ich bilde mir nämlich ein, dass die Wehen so richtig weh tun müssen, damit es mit der Geburt vorwärts geht. Im Wasser hatte ich den Eindruck, dass sie schwächer werden und ich habe einfach keine Geduld mehr.
+
+Was dann passiert, kann ich gar nicht wirklich sagen. Von jetzt auf gleich geht es rapide bergab. Mir ging es noch nie so schlecht. Ich kann mich auf nichts konzentrieren, keine Fragen beantworten, nicht atmen. Ich will nur, dass der Schmerz nachlässt. Das Mittel, das ich per Tropf eingeflößt bekomme, beamt mich allerdings komplett weg. Ich wechsle zwischen kurzen Schlafphasen und unerträglichen Schmerzen. Immer im Wechsel. Ich weiß noch, dass ich nach einer PDA frage – eine Betäubung, die ich eigentlich nicht wollte, aber ich hatte auch keine Ahnung, wie die Geburt für mich werden würde. Mein Freund stellt mir Fragen. Ich will sie beantworten, kann aber nicht mehr. Dauernd trete ich weg. Und plötzlich geht alles ganz schnell. Eine Delegation aus Ärzten steht vor mir. Sie sagen, dass die Herztöne meines Babys nicht mehr gut sind. Ein Kaiserschnitt muss vorgenommen werden. Im Rekordtempo klären mich verschiedene Ärzte (ich erinnere mich eigentlich nur noch an den Anästhesisten) über Risiken auf. Es spielt eigentlich keine Rolle mehr. Ich muss diverse Bögen unterschreiben. Ich habe Angst. Vor der Betäubung. Vor der Operation. Und vor allem: Um mein Baby!
+
+Ich werde sofort in den OP gebracht. Hier wird die Betäubung in den Rücken gesetzt. Mindestens zehn Personen in grünen Kitteln stehen um mich herum. Ich soll mich entspannen, was ich wirklich versuche, aber das ist praktisch nicht möglich. Die Spritze tut weh, ist aber wenig dramatisch im Vergleich zu allen anderen Schmerzen. Meine untere Körperhälfte wird schnell taub, die Beine kann ich schon kaum noch selbst in die Halterung legen. Ich liege auf dem OP-Tisch, wie auf einer Art gynäkologischem Stuhl und sehe nichts außer dem Gesicht des Anästhesisten neben mir. Mein Körper und der Bereich, aus dem gleich mein Baby kommen soll, sind komplett abgeschirmt. Ich spüre, dass etwas da unten passiert. Es ruckelt. Es fühlt sich an als würde mich jemand hart durchschütteln. Von innen irgendwie. Endlich steht mein Freund an meinem Kopfende. Er ist genau so blass, wie ich mich fühle und plötzlich ist es da: „MÄH!“, höre ich. Verzweifelt und laut. Das ist mein Baby. Endlich!
+
+Doch es ist noch nicht geschafft. Nur ganz kurz sehe ich aus dem Augenwinkel mein Kind. Es soll zuerst untersucht werden und nur, wenn alles in Ordnung ist, bekomme ich es auf die Brust gelegt. Ich wünsche mir nichts sehnlicher! Und die Wartezeit kommt mir ewig vor. Noch während ich vernäht werde, wird meine Kleine neben meinem Kopf abgelegt. Ich muss schielen, um sie im Blick zu haben aber mein Freund hält sie sicher fest. Wir haben es geschafft. Es ist 13.18 Uhr und wir haben eine gesunde Tochter. Doch bis ich sie im Arm halten darf, muss ich noch mal warten. Die Wunde wird verschlossen, ich vom Stuhl gehievt und in ein Bett verfrachtet. Damit werde ich zurück zum Kreißsaal gefahren. Und da sehe ich sie sitzen: Mein Liebster, komplett in grüner OP-Kleidung mit unserer Tochter auf dem Arm. Sie sehen ein bisschen verloren aus, aber für mich ist es der schönste Anblick der Welt. Meine kleine Familie, zusammen. Das wird immer das erste Bild bleiben, dass ich vom ersten Moment mit den zwei wichtigsten Menschen auf Erden haben werde. Die Zwei zusammen ein bisschen krampfig auf dem Stuhl. Erschöpft aber glücklich. Und genau so fühle ich mich auch.
+
+<figure>
+  <img src="../../../../../images/die_geburt_hand.jpg" alt="">
+  <figcaption>Hallo Baby! Die kleinen Händchen sind ganz schrumpelig. Und wunderschön!!</figcaption>
+</figure>

@@ -7,9 +7,11 @@ tags:
 ---
 **​Hui, heute bin ich gespannt wie ein Flitzebogen. Ich habe gleich nach dem Schwangerschaftstest einen Termin bei meiner Frauenärztin ausgemacht. Ich musste etwas mehr als zwei Wochen warten.**
 
-![](../../../../../images/ssw08_ultraschall.jpg)
+<figure>
+  <img src="../../../../../images/ssw08_ultraschall.jpg" alt="">
+  <figcaption>Mein Kind ist jetzt so groß wie eine Himbeere und sieht noch gar nicht nach Mensch aus. Aber sein Herzchen schlägt fleißig!</figcaption>
+</figure>
 
-Mein Kind ist jetzt so groß wie eine Himbeere und sieht noch gar nicht nach Mensch aus. Aber sein Herzchen schlägt fleißig!
 Denn die Arzthelferin am Telefon meinte, dass eine Untersuchung vor der achten Woche wenig Sinn machen würde. War mir erstmal wurscht. Dann warte ich eben noch ein bissl. Aber in den letzten Tagen bin ich dann doch hibbelig geworden. Was ist, wenn ich mir das alles nur einbilde? Vielleicht bin ich ja gar nicht schwanger! Und wenn ich doch schwanger bin, geht es dem Baby vielleicht nicht gut! Waaaaaaa!
 
 In der Praxis angekommen, bin ich so aufgeregt, dass ich erstmal die Toilette aufsuche. Am Tresen werde ich von der freundlichen Arzthelferin allerdings aufgefordert, eine Urinprobe abzugeben. Na dann. Warte ich eben mal 20 Minuten. Das ist zurzeit nämlich die Taktung, in der ich aufs Klo muss. Extrem nervig. Vor allem, wenn man fast ne Stunde in die Arbeit braucht! Kurz nachdem ich das erledigt habe (als kleine Vorwarnung: Das geht in der Schwangerschaft jeden Monat mindestens einmal so…), werde ich gewogen. Das Gewicht wird in den nächsten Monaten ordentlich rauf gehen. Ein Gedanke, an den ich mich echt noch gewöhnen muss. Dann muss ich alle möglichen Sachen angeben. Ist es die erste Schwangerschaft? Irgendwelche Krankheiten in der Familie? Blut wird mir abgenommen und dann geht’s auch schon ins Behandlungszimmer.

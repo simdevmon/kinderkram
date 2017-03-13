@@ -7,7 +7,10 @@ tags:
 ---
 **Nach dem negativen Schwangerschaftstest letzten Monat, mache ich mir dieses Mal weniger Sorgen. Ich bin wieder überfällig aber dadurch, dass es beim letzten Mal halt auch viel zu spät war als normal, halte ich dieses Mal schön den Ball flach. Bloß keine Panik.**
 
-![](../../../../../images/ssw06_test.jpg)
+<figure>
+  <img src="../../../../../images/ssw06_test.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
 
 Mittlerweile sind mir all die Gedankengänge, die ich letzten Monat hatte, vor mir selbst peinlich. Was man sich alles einreden kann, ist schon verrückt. Ich hatte zum Beispiel wie eine Bekloppte Schwangerschaftsanzeichen gegoogelt, beschlossen dass ich alle gleichzeitig habe und bekannterweise hab ich mir alles nur eingebildet. Bei meinen Recherchen bin ich auch über Wahrscheinlichkeiten gestolpert. Wenn beide Partner völlig gesund sind und man an den fruchtbaren Tagen (von denen es auch nicht wirklich viele im Monat gibt) miteinander schläft, liegt die Wahrscheinlichkeit für einen Treffer bei 25 Prozent. Das erscheint mir wenig. Da verhütet man Jahre lang doppelt und dreifach, weil wir in der Schule und von Mama gelernt haben, dass man schon schwanger wird, wenn man bloß mal einen falsch anguckt und dann kommt man an diese wissenschaftlich fundierten Zahlen. Na toll. Aber wir haben noch Zeit und wenn man ehrlich ist, fetzt Üben ja auch.
 

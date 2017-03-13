@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/wollen_wir_ein_baby.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Ein Foto aus besagtem Costa Rica Urlaub. Das im Bild ist übrigens der Krater eines aktiven Vulkans. Da hat es wie Hölle nach Schwefel gestunken. Sieht man aber zum Glück nicht :).</figcaption>
 </figure>
 
-Ein Foto aus besagtem Costa Rica Urlaub. Das im Bild ist übrigens der Krater eines aktiven Vulkans. Da hat es wie Hölle nach Schwefel gestunken. Sieht man aber zum Glück nicht :).
 Im letzten gemeinsamen Urlaub waren wir zusammen in Costa Rica. Mit Rucksack, null Spanischkenntnissen und drei Wochen Zeit zum Rumreisen. Am Ende des Urlaubs habe ich mal angemerkt, dass ER die einzige Person ist, mit der ich seit drei Wochen mehr als drei Sätze gewechselt habe. Und es ist mir nicht mal aufgefallen. Wir verstehen uns einfach! Und ich gönne jedem Menschen auf der ganzen großen weiten Welt auch so jemanden zu finden. Das fühlt sich nämlich verdammt gut an.
 
 Doch auch die aufregendste und schönste Reise ist irgendwann zu Ende. Zurück in München wurde es aber auf ganz andere Art und Weise spannend. Ich war überfällig. Und das hatte ich seit meinen Teenager-Zeiten nicht. Also hab ich mir zu diesem Zeitpunkt schon meine Gedanken gemacht. Ich hatte nämlich in Sachen Verhütung im Urlaub die Zeitverschiebung von acht Stunden nicht eingerechnet. Eigentlich nicht dramatisch. Dachte ich zumindest. Nach umfangreicher Recherche im Internet wurde auch zig Mal bestätigt, dass der Zyklus durcheinander kommen kann, wenn man in Länder mit ordentlich Zeitverschiebung reist. Allein, dass das da stand, enttäuschte mich schon ein bisschen.

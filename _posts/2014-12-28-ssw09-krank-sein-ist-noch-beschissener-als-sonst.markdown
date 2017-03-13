@@ -7,7 +7,10 @@ tags:
 ---
 **Mir geht’s beschissen. Ehrlich. Ich kriege überhaupt keine Luft, meine Haut tut am ganzen Körper weh, ich hab einen kratzigen Hals, kann kaum schlucken und Kopfschmerzen hab ich auch wie Sau. Ein richtig schöner grippaler Infekt sagt der Arzt. Da kann man leider nix machen. Das muss man aussitzen.**
 
-![](../../../../../images/ssw09_krank.jpg)
+<figure>
+  <img src="../../../../../images/ssw09_krank.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
 
 Normalerweise würde ich mir jetzt selbst mit Schmerzmittel, Hustensaft (ich klinge wie ein altes Pferd, das Reißnägel gegurgelt hat, wenn ich versuche den Schleim rauszuhusten) und Nasenspray helfen. Doch als verantwortungsvolle Schwangere hab ich mich schlau gemacht, welche Medikamente ich bedenkenlos nehmen kann. Ich habe mit der Ärztin geredet, mit Müttern, ich habe selbstverständlich das Internet konsultiert und fasse hier mal das Ergebnis all meiner Recherchen für Sie zusammen:
 

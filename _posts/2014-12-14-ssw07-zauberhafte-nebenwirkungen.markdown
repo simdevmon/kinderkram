@@ -2,12 +2,15 @@
 title:  "{::nomarkdown}7.{:/} Woche: Zauberhafte Nebenwirkungen"
 date:   2014-12-14 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw07_teaser.png
-tags: 
+  teaser: ../../../../../images/ssw07_nebenwirkungen_teaser.png
+tags:
 ---
 **​Ich bin immer noch überwältigt! Wir bekommen wirklich ein Baby! Wie krass ist das denn? Ein kleiner Mensch wird mich in absehbarer Zeit „Mama“ nennen.**
 
-![](../../../../../images/ssw07.jpg)
+<figure>
+  <img src="../../../../../images/ssw07_nebenwirkungen.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
 
 Kennt hier jemand die Hohes C-Werbung, in der ein kleiner Junge ganz viele kleine Arbeiten verrichtet? Für ein Taschengeld. Er sammelt alles und schiebt dann irgendwann sein Sparschwein zu seinen Eltern rüber mit den Worten: „Ich gebe euch das für einen ganzen Tag zusammen spielen“. Herrgott nochmal. Der arme Kerl! Wer macht denn solche grausamen Werbespots? Der ist sogar noch schlimmer als die Ben & Jerry's-Werbung im Kino. Das geht so: Im Leben ist nicht immer alles fair. Dass Bens Name vor Jerrys steht: nicht fair… Und so weiter. Ich finde: das stimmt! Mein Herz leidet mit Jerry für dieses grausame Schicksal. Und ich weiß sehr wohl, dass das vollkommen dämlich und irrational ist, aber ich kann halt grad nicht anders.
 
