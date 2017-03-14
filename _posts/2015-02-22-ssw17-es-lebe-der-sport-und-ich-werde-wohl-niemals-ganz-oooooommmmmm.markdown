@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw17_sport.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Sowas machen wir nur ganz am Anfang und am Ende der Stunde. Eine tolle Gelegenheit für einen Bauchvergleich! Wobei ich nicht halbnackig dasitze.</figcaption>
 </figure>
 
-Sowas machen wir nur ganz am Anfang und am Ende der Stunde. Eine tolle Gelegenheit für einen Bauchvergleich! Wobei ich nicht halbnackig dasitze.
 Zum ersten Mal finde ich, dass mein Bauch viel zu klein ist und bei jedem Ausatmen schiebe ich die kleine Kugel nach außen um ein paar Zentimeter dazu zu mogeln. Der Grund: Die anderen werdenden Mamas haben alle samt irgendwie größere Bäuche. Wahrscheinlich weil die Schwangerschaft bei ihnen einfach weiter vorangeschritten ist?
 
 Ich versuche mehr Sport in mein Leben einzubauen. Ich mache jetzt schon relativ viel, aber es gibt ja noch Kurse und Sportarten zu entdecken, die für Schwangere explizit empfohlen werden. Und die probiere ich jetzt einfach mal aus. Yoga an sich ist nicht wirklich mein Ding. Ich bin mehr so die Action-Sportlerin. Beachen, Biken, Berge… Alles nicht so gute Ideen in der Schwangerschaft. Also auf zu neuen Arten der körperlichen Ertüchtigung!

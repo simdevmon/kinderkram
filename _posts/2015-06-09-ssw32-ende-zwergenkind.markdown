@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw32_ende_mull.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Bei jedem Schritt in Richtung Baby fällt mir wieder ein, was es noch brauchen könnte. Mullwindeln zum Beispiel. Wozu genau? Woher soll ich das wissen? Ich hab noch kein Kind. Aber Baby-Shopping macht auch schlichtweg Spaß.</figcaption>
 </figure>
 
-Bei jedem Schritt in Richtung Baby fällt mir wieder ein, was es noch brauchen könnte. Mullwindeln zum Beispiel. Wozu genau? Woher soll ich das wissen? Ich hab noch kein Kind. Aber Baby-Shopping macht auch schlichtweg Spaß.
 Ich befinde mich in einem großen Münchner Klinikum und bin heute zum Baby-Check hier. Ab der 20. Woche konnte man sich zur Geburt anmelden und genau zu diesem Zeitpunkt habe ich das auch gemacht. Damals (Mann, ist das lange her!) haben sie mir schon den heutigen Termin gegeben. Gut, dass ich mir immer alles aufschreibe. Sonst hätte ich das sicher verschwitzt.
 
 Nach einer Viertelstunde Warten erscheint meine Nummer auf einem Display im Wartezimmer. Es ist wirklich wie auf dem Amt! Ich werde in ein Sprechzimmer gebeten und von einer Arzthelferin ausgefragt. Zu Krankheiten in der Familie, ob ich irgendwann irgendwelche Beschwerden hatte, Blutungen, ob ich Tabak oder Alkohol konsumiere (natürlich nicht!) und so weiter. Eine Runde Anamnese also. Ich beklage mein knirschendes Kreuzbein, das mir zur Zeit wirklich zu schaffen macht. Die Arzthelferin schreibt es auf, kommentiert aber nix. Mein absolutes Highlight: Ich werde gefragt, wie mein Baby mit Familiennamen heißen soll. Und ich buchstabiere den meines Freundes. So haben wir es ausgemacht und irgendwie ist das gerade wieder so ein "Oh-mein-Gott-wir-bekommen-wirklich-ein-Baby"-Moment. Danach werde ich wieder ins Wartezimmer entlassen. Überraschung: Ich muss nochmal eine Nummer ziehen. Das mache ich. Und warte wieder...

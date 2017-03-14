@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 28. Woche: Ist Mutti noch sexy?{:/}"
+date:   2016-02-20 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw28_sexy_teaser.png
+tags:
+---
+**Ja Freunde. Selbstverständlich denken junge Muttis auch an Sex. Die eine mehr, die andere weniger. Eine schaut dem nächsten Stelldichein mit Schrecken entgegen, eine Andere freut sich drauf. Auf jeden Fall ist es ein Thema, das diskutiert werden muss. Und dabei geht’s immer auch um das Aussehen…**
+
+<figure>
+  <img src="../../../../../images/bw28_sexy.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Gestern hatte ich ein riesengroßes Erfolgserlebnis. Zum Spaß bin ich mal auf die Waage gestiegen und tadaaaa! - ich hab mein Vor-Schwangerschaft-Gewicht wieder. Heißt bei mir 63 Kilo. Acht habe ich direkt bei der Geburt verloren. Da sieht man mal, was so alles aus einem raus flitschen kann, abgesehen vom Baby. Ganz schön eklig, irgendwie. Die verbleibenden vier Kilos von den insgesamt zwölf, die ich zugelegt habe, hielten sich verdammt hartnäckig. Trotz stillen und allem Stress und Essen vergessen. Wurscht. Ich passe sogar wieder in meine alten Jeans. Leider heißt das aber noch lange nicht, dass ich auch aussehe wie vorher. Die Kaiserschnittnarbe teilt meinen Bauch weiterhin in zwei unschöne Wülste. Mein Freund findet das überhaupt nicht dramatisch und tatsächlich sieht es ja Monat für Monat besser aus. Aber wohl fühle ich mich damit nicht. Und wenn man sich nicht wohl in seinem Körper fühlt, hat man auch nicht mehr so viel Bock auf Beischlaf wie vor dem Baby. Abgesehen davon, dass MEIN Baby ein eingebautes Radar dafür zu haben scheint, wenn es bei uns zur Sache geht. Da wird sie nämlich wach. Da bekommt der Satz: „Die Mama kommt ja gleich!“ eine ganz andere Bedeutung.
+
+Und überhaupt. Natürlich ist es jetzt anders. Weil ich immer den Zeitdruck im Nacken habe. „Beeil dich, bevor das Baby wach wird!“, ist bei uns Standard. Angefangen haben wir wieder sechs Wochen nach der Geburt. Und weil das Thema so spannend ist, habe ich selbstverständlich Umfragen im Mutti-Freundeskreis durchgeführt. Meinem Liebsten ist einmal pro Woche nämlich eigentlich zu wenig. Mir grad nicht. Daher brauchte ich den Vergleich. Und damit hatte ich was, dass ich ihm um die Ohren hauen konnte! Tatsächlich scheinen wir nämlich sogar eher die Ausnahme zu sein. Eine liebe Freundin wurde untenrum überall genäht, wo man so genäht werden kann und hat auch acht Monate nach der Geburt noch Schmerzen beim Sex und daher logischerweise keinen Bock drauf. Sie kann an einer Hand abzählen wie oft sie mit ihrem Mann in der Kiste war. Eine andere Freundin, die nicht so in Mitleidenschaft gezogen wurde, war vor einem halben Jahr das letzte Mal mit ihrem Mann intim. Ich hab geguckt wie ein Auto, als sie mir das erzählte. Der Knüller dabei ist nämlich der Grund: Die beiden, beziehungsweise die drei sind seit der Geburt des Kleinen jedes Wochenende bei anderen Freunden und Verwandten und hatten deshalb noch keine Gelegenheit zu schnackseln.
+
+Hui! Ich hab noch mehr Beispiele. Und es gibt nichts, was es nicht gibt. Eine hat schon nach drei Wochen wieder losgelegt, ein Kumpel klagte mir sein Leid dass ihn seine Frau seit einem Jahr nicht ran lässt (genau so alt ist auch seine Tochter). Tja. Und das Tragische ist, dass die meisten Paare nicht darüber reden. Das ist Mist. Vor allem wenn beide nicht glücklich sind mit ihrem Sexualleben. Und das sind nach der Geburt verdammt viele nicht mehr. Mir ist es auch ein klitzekleines bisschen peinlich darüber zu schreiben (okay, ziemlich peinlich!) aber vielleicht hilft es ja, wenn mal jemand offen sagt, wie der Stand der Dinge ist. Ich jedenfalls setze mich jetzt nicht mehr unter Druck. Das hat mir nämlich kein Glück gebracht.
+
+Um schnell wieder schlank und attraktiv zu sein, natürlich auch für meinen Partner, hab ich es beim Sport gleich wieder übertrieben. Das Fazit nach gerade mal drei Wochen Wiedereinstieg in Beachvolleyball ist eine schmerzhafte Schultereckgelenksprengung. Das heißt, mein Schlüsselbein, sitzt nicht mehr richtig im Gelenk. Ganz toll Katja! Jedenfalls tut das so weh, dass an „Kuscheln“ nicht zu denken ist. Vielleicht in drei Wochen wieder. Wenn das Baby es nicht verhindern kann...

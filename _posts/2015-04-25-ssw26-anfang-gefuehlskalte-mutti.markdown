@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw26_anfang_ultra.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Das ist trotz meiner eigenen Skepsis ein ganz, ganz süßes Baby! Aber beim nächsten Mal hoffe ich darauf, dass man das Gesicht noch besser erkennt!</figcaption>
 </figure>
 
-Das ist trotz meiner eigenen Skepsis ein ganz, ganz süßes Baby! Aber beim nächsten Mal hoffe ich darauf, dass man das Gesicht noch besser erkennt!
 In der Schwangerschaft hat man einmal im Monat so ein Date mit der Ärztin (oder dem Arzt). Da wird gecheckt, ob ich gesund bin, in meinem Bauch alles in Ordnung ist und am allerwichtigsten natürlich: Ob es meiner Süßen gut geht. Sorgen mache ich mir vorher eigentlich nie. Denn mal abgesehen von meiner kleinen gesundheitlichen Pechsträhne hatte ich noch zu keinem Zeitpunkt das Gefühl, dass mein Baby ernsthaft in Gefahr wäre.
 
 Bei allen Terminen gab es bisher ein neues Highlight. Beim ersten Mal sah man, dass ein Herzchen schlägt. Beim zweiten Mal, dass die Kaffeebohne inzwischen ein richtiger Mensch ist. Dann HÖRTE ich zum ersten Mal das Herz schlagen. Und dieses Mal? Bin ich enttäuscht! Die Krankenkasse bezahlt während der kompletten Schwangerschaft nur dreimal einen Ultraschall. Das ist mir deutlich zu wenig. Ich lasse bei jedem Kontrolltermin einen machen. Das kostet dann zwar 30 Euro, aber das ist mir ziemlich wurscht. Ich will einfach sehen, wie sie ausschaut! Auch dieses Mal bekomme ich also einen Ultraschall. Und mein Baby macht richtig Action! Sie lutscht am Daumen, lächelt, strampelt, dreht sich, boxt... Und das alles in einer Geschwindigkeit, die verhindert, dass man eine anständige Aufnahme von meiner Tochter bekommt. Sie hält einfach nicht lange genug still! Und so großartig das Ganze eigentlich ist (Mein Baby kann am Daumen lutschen. Halloo???!!!) - ich bin nicht so begeistert wie sonst. So ein Mist! Das macht mir selbst direkt wieder ein schlechtes Gewissen. Ich sollte doch völlig aus dem Häuschen sein! Naja. Vielleicht kommt das ja noch nachträglich?

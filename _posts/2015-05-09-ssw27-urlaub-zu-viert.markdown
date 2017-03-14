@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw27_urlaub.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Hier sind wir in Knossos - eine antike Ausgrabungsstätte. Und mal unter uns: Die Latzhose fetzt echt, oder :)?</figcaption>
 </figure>
 
-Hier sind wir in Knossos - eine antike Ausgrabungsstätte. Und mal unter uns: Die Latzhose fetzt echt, oder :)?
 Während des ganzen Fluges haben wir durchgekaut, wie mistig es in diesem Krankenhaus war. Und dass unser Timing wirklich kaum hätte schlechter sein können. In erster Linie sind wir zwar erleichtert, aber ich werde immer noch von Sorge zerfressen. Was ist, wenn ich wirklich eine Frühgeburt habe? Gibt es auf Kreta Kliniken, die dafür ausgelegt sind? Ich habe keine Ahnung! Und wir bleiben ja auch nur eine Woche. Und der Flug ist in zweieinhalb Stunden überstanden.
 
 Unser Hotel ist ganz in Ordnung und mit dem Wetter haben wir unfassbar viel Glück. Mit 26°C und Sonnenschein haben wir gar nicht gerechnet. Wir haben allerschönstes Sommerwetter! Und das färbt von Stunde zu Stunde mehr auf meine Stimmung ab. Die Bevölkerung hier trägt einen großen Teil dazu bei. Denn die Kreter sind extrem kinderfreundlich. Zumindest die, auf die wir treffen. Egal ob Fischer, Verkäuferin, Kellner oder Autovermieter: Alle beglückwünschen mich zu meinem Baby und haben tausend Fragen zu meinem Nachwuchs. Außerdem darf ich überall kostenlos aufs Klo gehen und werde von Männern jeden Alters auf jede noch so kleine Stufe hingewiesen. Irgendwie süß. Ich beginne irgendwann im Laufe des Tages mich zu entspannen. Aber richtig locker lassen? Das klappt einfach nicht. Wir machen Urlaub auf Sparflamme. Es ist schön. Jeden Tag unternehmen wir einen anderen Ausflug. Wir fahren an den Geburtsort des Zeus (eine Tropfsteinhöhle), an Strände, kraxeln über die verwunschene Festung der ehemaligen Lepra-Kolonie (klingt komisch, ist aber wunderschön dort - ich hatte auch erst meine Zweifel), wandern durch die längste (und sehr schöne) Schlucht Europas, fahren Boot, essen kiloweise griechischen Joghurt... Und langweilen uns ein bisschen dabei.

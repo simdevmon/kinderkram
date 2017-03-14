@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw24_baustelle.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Das ist das gute Stück. Dieser Beckengurt soll mir Linderung verschaffen, wenn es gerade besonders doll weh tut. Ich darf ihn allerdings nur tragen, wenn ich in Bewegung bin.</figcaption>
 </figure>
 
-Das ist das gute Stück. Dieser Beckengurt soll mir Linderung verschaffen, wenn es gerade besonders doll weh tut. Ich darf ihn allerdings nur tragen, wenn ich in Bewegung bin.
 Wenn er noch ein bisschen größer wird, haue ich mir bei jedem Tritt in die Pedale ein Knie in den Bauch. Das mache ich natürlich nicht. Das wäre ja, als würde ich mein Baby treten. Aber so lange das noch nicht der Fall ist, radle ich weiter. Fit zu bleiben und nicht fett zu werden, ist mir nämlich wichtig. Aber das ist ein Thema, zu dem ich mal wann anders komme. Da gehen mir nämlich auch einige Dinge auf die Nerven.
 
 Heute Morgen allerdings muss ich meine Radl-Pläne wohl streichen. Ich kann mich kaum rühren. Allein das Aufstehen aus dem Bett ist mühsam. Und schmerzhaft! Ganz langsam auf dem Rücken zur Bettkante robben, dann vorsichtig ein Bein ausklappen und dann müsste es doch eigentlich… Aua! Mit tun die Beine weh! Oder viel mehr das Becken. Beziehungsweise die Gelenke zwischen Bein und Becken. Aufs Fahrrad brauche ich definitiv nicht. Ich versuche erstmal, überhaupt auf's Klo zu kommen. Ich bewege mich wie ein altes Weib mit Buckel und Krummsäbel-Beinen. Pinocchios erste Gehversuche waren geschmeidig im Gegensatz zu dem Bild, das ich hier abliefere. Aber was IST das nur? Hab ich es übertrieben? Doch zu viel Sport? Zu anstrengend? Ich bin drei Tage in Folge geradelt und hab durchaus gemerkt, dass es im Beckenbereich mit jedem Kilometer mehr zwackt. Aber ich wollte keine Memme sein und habe durchgezogen. Tja. Und jetzt mach ich mir mal wieder Sorgen. Hab ich meinem Baby irgendwie geschadet? Ist da unten alles in Ordnung? Becken und Schambein sind grad heikle Regionen also mache ich einen Notfalltermin bei meiner Frauenärztin.

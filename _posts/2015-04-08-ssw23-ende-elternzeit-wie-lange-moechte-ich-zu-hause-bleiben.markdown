@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw23_ende_elternzeit.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Elternzeit muss man sich leisten können. Und dabei nennen Politiker die Bezüge üppig. Pfff. Kann ja sein wenn man soviel verdient wie einer von denen!</figcaption>
 </figure>
 
-Elternzeit muss man sich leisten können. Und dabei nennen Politiker die Bezüge üppig. Pfff. Kann ja sein wenn man soviel verdient wie einer von denen!
 Sorgerechtserklärung und Vaterschaftsanerkennung haben wir ja schon. Als ich einen Geburtsvorbereitungskurs gesucht habe, musste ich auch wieder was ausfüllen. Um sich für einen Krippenplatz vormerken zu lassen sowieso. Dazu kommen Antrag auf Mutterschutzgeld, später Kindergeld, beim Standesamt muss das Kind angemeldet werden, meine Krankenkasse hat mich auch schon einen Antrag auf Krankenversicherung für meine Kleine ausfüllen lassen… Und so geht das ewig weiter. Mein Baby ist noch nicht einmal auf der Welt und hat schon einen eigenen Ordner in unserem Schrank!
 
 Und jetzt gerade eben muss ich mich mit dem nächsten Thema beschäftigen. Elternzeit! Mein Chef wird langsam hibbelig. Der will schon länger wissen, wie lange ich gedenke, daheim zu bleiben. Verständlich. Schließlich muss irgendjemand meinen Job machen, wenn ich nicht da bin. Das ist übrigens auch wieder so ein ganz eigenes Thema. Ich hab voll Schiss vor dem Wiedereinstieg nach der Elternzeit. Was ist zum Beispiel, wenn sie festgestellt haben, dass sie mich gar nicht brauchen? Mist! Aber darüber muss ich mir später Gedanken machen. Gerade eben gibt es noch zu viele aktuellere Baustellen.

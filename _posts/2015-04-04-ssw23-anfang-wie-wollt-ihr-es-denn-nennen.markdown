@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw23_baby_name.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Wenn ich ein Auto hätte, könnte ich mir auch so einen tollen Sticker auf die Heckscheibe pflastern :)</figcaption>
 </figure>
 
-Wenn ich ein Auto hätte, könnte ich mir auch so einen tollen Sticker auf die Heckscheibe pflastern :)
 Ich liebe ja die Vornamensstatistik, die jedes Jahr veröffentlicht wird. Denn einen Namen für mein Baby hatte ich schon immer im Hinterkopf. Allerdings will ich nicht, dass in der Schulklasse meiner Kleinen später drei weitere Mädels mit demselben Vornamen hocken. Daher schadet es nicht, sich die Hitliste der Deutschen mal anzugucken… Und beim letzten Mal war ich geschockt! Da stand nämlich tatsächlich - seit Jahren zum ersten Mal - MEIN Wunschname für mein Baby unter den Top 10. Tja. Damit fällt er jetzt aus meiner engeren Wahl. Aber so einen komplizierten, englischen oder Hauptsache ausgefallenen und einzigartigen Namen will ich ihr auch nicht geben. Die Sache will gut überlegt sein.
 
 Das Problem mit der Namensgebung: Es ist für immer. Meine Tochter wird ihr Leben lang mit ihrem Namen rumlaufen. Denn ändern darf sie ihn nur, wenn er sie nachweislich irgendwie beeinträchtigt. Und außerdem machen das nur ganz wenige Leute. Ich selbst war auch nie ein großer Fan meines eigenen Vornamens. Da es mich aber auch hätte schlimmer treffen können, will ich mich nicht beschweren. Fragen Sie mal den kleinen Napoleon, Silvester Rakete, Anneken Skywalker oder Jayvelyn Siegrid, Vyvyan Valeska Silke Gwendolyn Anneliese (das ist EIN Name!!) oder… Kein Scheiß. All diese Namen gibt es in Echt! Manche Eltern finden die super. Ich bevorzuge dann aber doch eher etwas Einfaches. Oder doch nicht? Denn es gibt ja noch einen Faktor zu berücksichtigen: Meinen Freund. Der hat schließlich 50 Prozent Mitspracherecht. Und genau an diesem Punkt wird es schwierig.

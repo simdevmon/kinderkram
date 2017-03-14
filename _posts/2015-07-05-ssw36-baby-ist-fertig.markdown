@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw36_baby_fertig.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Ich wäre dann soweit. Vor dem Bettchen steht der gepackte Klinikkoffer.</figcaption>
 </figure>
 
-Ich wäre dann soweit. Vor dem Bettchen steht der gepackte Klinikkoffer.
 Ab sofort gilt es als voll entwickelt. Es hat die Lungenreife, genügend Speckpolster, Haare, Fingernägel, es kann verdauen und gucken und überhaupt alles, was man so können muss, wenn man jetzt auf die Welt käme. Was für ein erhebendes Gefühl!
 
 Ab sofort muss ich mir keine Sorgen mehr machen. Wenn es jetzt los geht, geht es eben los und wir sagen herzlich willkommen kleiner Sonnenschein. Natürlich wäre es mir lieber, wenn sie sich die verbleibenden Wochen noch Zeit lässt. Denn jeder Tag, den meine Kleine länger in meinem Leib verbringt, ist gut für sie und ihre Entwicklung. Sie kann ja jetzt locker nochmal über ein halbes Kilo zunehmen... Außerdem geht mir langsam wirklich die Düse! Die Geburt kann jetzt jederzeit und jeden Tag losgehen und ohne Mist – wenn einen das kalt lässt, dann ist er (oder sie) entweder eine verdammt coole Sau oder irgendwas stimmt nicht. Hui!

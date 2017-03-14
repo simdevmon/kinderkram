@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw14_ende_hebamme.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Wenn der Storch die Babys bringen würde, sorgte er dann auch für eine anständige Nachsorge??</figcaption>
 </figure>
 
-Wenn der Storch die Babys bringen würde, sorgte er dann auch für eine anständige Nachsorge??
 Zuerst probiere ich es bei einer Hebamme aus meiner näheren Umgebung, die ich übers Internet gefunden habe. Es war mir fast ein bisserl peinlich, mich so früh schon zu melden. Schließlich geht’s mir nur um die Nachsorge. Also nach der Geburt möchte ich jemanden haben, der vorbei kommt und mir mit Rat und Tat zur Seite steht. Was ist zum Beispiel, wenn es mit dem Stillen nicht klappt? Ich peinliche körperliche Beschwerden habe, über die ich mit meinem Freund schlecht reden kann (und der mir ja eh nicht helfen könnte)? Ich hab tierische Angst, das Baby kaputt zu machen und wenn ich weiß, dass Fachpersonal zur Stelle ist, um genau das zu verhindern, bin ich gleich viel beruhigter.
 
 Die erste Hebamme jedenfalls ist völlig entgeistert! Warum ich mich erst jetzt melde, will sie wissen. Ich lebe in München. Da müsste mir doch klar sein, dass es jetzt viel zu spät ist, sich um eine Hebamme zu kümmern. Die sind alle ausgebucht bis auf zwei Monate NACH meinem Geburtstermin. Und überhaupt. Mein Geburtstermin fällt in die Ferienzeit. Da hat ja mal erst recht keine Hebamme Zeit. Die haben schließlich alle selbst schulpflichtige Kinder und sind dann dementsprechend im Urlaub. Sie gibt mir – ich fühle mich gerade wie die verantwortungsloseste, schlechteste Mutter der Welt – die Nummern von drei ihrer Kolleginnen, die eventuell noch Platz für mich freischaufeln könnten in ihren übervollen Terminkalendern. Puh! Jetzt ist es soweit. Ich kriege Panik! Was, wenn ich keine Hebamme mehr finde? Ich probiere es sofort bei den drei Nummern. Zwei bügeln mich direkt ab, weil sie ausgebucht sind, eine will ihren Kalender checken. Ich warte tagelang vergeblich auf einen Rückruf. Wenn ich es versuche, geht sie nicht ans Telefon. Scheiße, echt!

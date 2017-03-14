@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw18_anfang_wagen.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Unser Traummodell. Statt 980 haben wir 280 Euro bezahlt. Nervenkrieg und Frust inklusive. Aber das war es uns wert. Wann kommt endlich das Baby damit wir es durch die Gegend fahren können? Bruuuummm....</figcaption>
 </figure>
 
-Unser Traummodell. Statt 980 haben wir 280 Euro bezahlt. Nervenkrieg und Frust inklusive. Aber das war es uns wert. Wann kommt endlich das Baby damit wir es durch die Gegend fahren können? Bruuuummm....
 Denn natürlich hatten wir keinen blassen Schimmer davon, was Kinderwagen in etwa kosten. Die, die wir ganz schick finden, von Bugaboo, Peg Perego, Joolz oder Gesslein spielen alle in einer Liga. Rund Tausend Euro muss man für einen „Neuwagen“ hinblättern. Überhaupt unterhalten wir uns seit geraumer Zeit über Kombis, Sport- oder eben Neuwagen. Dabei haben wir nicht mal ein echtes Auto! Wir reden über die Babykutsche!
 
 Wir beschließen, uns ausnahmsweise von richtigem Fachpersonal beraten zu lassen und treffen uns am nächsten Tag nach der Arbeit bei einem Babyausstatter. Hier finden sich die gleichen Marken wie im Internet, nur dass wir dieses Mal ein besseres Gefühl für die Größe der Wagen bekommen. Mein Freund fährt mit einem Modell von Bugaboo ein bisschen schüchtern Schlangenlinien durch den Laden. Mir geht schon wieder das Herz auf wenn ich mir das so angucke. "Guck mal, wie toll er das macht. Er wird bestimmt ein super Papa!" Diese Gedanken gehen mir durch den Kopf als er mir ins Ohr flüstert: „Die kriegen wir bestimmt gebraucht viel günstiger.“ Das finde ich nicht geizig sondern sparsam. Der Gedanke kam mir auch schon. Wir suchen trotzdem noch einen weiteren Babyausstatter auf, der andere Kinderwagenmodelle führt und treffen die erste Entscheidung.

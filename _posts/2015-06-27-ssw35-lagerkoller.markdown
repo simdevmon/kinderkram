@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw35_katja.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Hier mal nur die nasse Wäsche vom Baden - Waschen steht grad aber auch verdammt oft auf dem Plan</figcaption>
 </figure>
 
-Hier mal nur die nasse Wäsche vom Baden - Waschen steht grad aber auch verdammt oft auf dem Plan
 Ich bin jetzt genau eine Woche im Mutterschutz und habe es in dieser Zeit nicht ein einziges Mal geschafft, mich wenigstens für eine Stunde auf die Couch zu hauen, um meine geliebte Sendung (ein Trash-Format, seichte Unterhaltung zum Abschalten) zu gucken. Dabei habe ich ja jetzt eigentlich Zeit, richtig?
 
 Möp! Natürlich nicht! Ich habe tatsächlich für überhaupt gar nichts Zeit. Ich schmeiße den Haushalt, hab tausend Termine und trotz all dem Stress fühle ich mich so unausgefüllt, dass ich gerade heule wie ein Kleinkind. Wahrscheinlich sind das einfach die Nerven. Denn wenn ich am Ende des Tages bei allen Arztterminen war, die Babypflege gekauft habe, die noch fehlt, Fenster geputzt und endlich die Besteckschublade sauber bekommen habe, kommen die Gedanken an die Geburt. Und die erste Zeit mit dem Baby. Und genau die machen mir eine Heidenangst! All die romantischen Vorstellungen vom Kinderkriegen, Mutterglück und Familienidyll sind echten Horrorszenarien gewichen. Das Kind schreit die ganze Zeit, nachdem ich 48 Stunden in den Wehen lag. Mein Freund erträgt es nicht, dass ich ein nervliches Wrack bin, das es nicht mehr schafft, sich die Haare zu waschen... Solche Dinge eben. Ich weiß, dass das nicht wirklich rational ist, aber ich hab eben Angst.

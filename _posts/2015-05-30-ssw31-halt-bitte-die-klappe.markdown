@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw31_meersburg.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Einfach nicht stressen lassen. Das mache ich zur Zeit. An den Wochenenden unternehmen wir viel zu zweit. Fremde trauen sich allerdings auch einen einfach auf den Bauch anzuquatschen. Die halten sich mit ihrer Meinung aber meistens zurück :)</figcaption>
 </figure>
 
-Einfach nicht stressen lassen. Das mache ich zur Zeit. An den Wochenenden unternehmen wir viel zu zweit. Fremde trauen sich allerdings auch einen einfach auf den Bauch anzuquatschen. Die halten sich mit ihrer Meinung aber meistens zurück :)
 Ein Arbeitskollege erwähnte zum Beispiel ganz nebenbei, dass seine Frau 52 (!!!) Stunden brauchte vom Blasensprung bis das Baby dann endlich auf der Welt war. Meine Mutter geht mir mit ihren Kaiserschnittprognosen sowieso auf den Senkel und natürlich hatte auch sie eine schreckliche Geburt. Mit mir wohl bemerkt. 13 Stunden fürchterlichste Schmerzen habe ich ihr beschert. Aha. Und jetzt?
 
 Warum zum Teufel glauben alle, mir das erzählen zu müssen? Was soll mir das bringen? Dammrisse, Operationsnarben und Körperteile, die hinterher nie wieder so wurden wie sie mal waren. All das möchte ich nicht hören. Warum? Weil es nicht nett ist! Da ist kein Tipp dabei, kein gut gemeinter Ratschlag oder irgendetwas anderes Brauchbares. All die Geschichten dienen einzig und allein der Erleichterung. Für die Person, die sie von sich gibt, glaube ich. Oder warum sollten die das sonst machen? Ich komme ja aus der Nummer nicht mehr raus. Will ich auch gar nicht. Früher oder später MUSS ich mein Baby wohl oder übel aus meinem Bauch entlassen. Und ich habe nie geglaubt, dass das ein Spaziergang wird.

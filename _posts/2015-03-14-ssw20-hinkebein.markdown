@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw20_hinkenbein.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Mit Babybauch und Matschefuß daheim...</figcaption>
 </figure>
 
-Mit Babybauch und Matschefuß daheim...
 Ich hab aber auch immer so viele Sachen zu tun! Dieses Wochenende zum Beispiel. Weil ich so fit bin, nutze ich jede Gelegenheit für sportliche Aktivität bei Sonnenschein. Oder zumindest bei "kein Regen oder Schnee". Radfahren geht noch gut, Spazieren gehen sowieso und heute (es ist Sonntag) waren wir sogar in den Bergen. Nur eine nette, kleine vier Stunden Tour. Das haben wir uns vorgenommen und weil das Wetter eben nicht ganz mies war, haben wir es auch durchgezogen. Die Stellen an denen man ein bissl klettern muss, waren einfach. Überraschenderweise habe ich aber Probleme mit langen, sanften aber stetigen Anstiegen. Da schnaufe ich wie eine in die Jahre gekommene Dampflok. Vor allem wenn halt noch überall knietief Schnee liegt! Trotzdem: Es war ein toller Ausflug und dass mir beim Abstieg die ganze Zeit die Füße weh getan haben, hat mich erstmal nicht weiter beunruhigt.
 
 Als ich am späten Abend schlafen will, geht das aber nicht so einfach. Der Grund: Mein rechter großer Zeh tut so Hölle weh dass ich vor Schmerzen verrückt werden könnte. Ich halte nicht mal das Gewicht der Bettdecke auf dem Fuß aus. Mein kompletter Puls befindet sich nur noch in der großen Zehe. Was ist das nur?? Ich bin wirklich kein Weichei aber das hier macht mir Angst. Es ist mittlerweile ein Uhr nachts und wird immer schlimmer. Ein Anruf beim medizinischen Notdienst empfiehlt man mir in die Notaufnahme zu fahren. Mein armer Freund, den ich gerade um den Schlaf bringe, ruft uns ein Taxi und wir düsen los. Nachdem Arzt Nummer eins nichts feststellen konnte, attestiert Arzt Nummer zwei im Klinikum einen eingewachsenen Zehennagel. Na wunderbar. Das klingt doch erstmal nicht weiter dramatisch. Ist es aber irgendwie doch. Denn der komplette Zeh hat sich entzündet. Das sieht man zwar von außen nicht, tut aber mega weh erklärt der Chirurg. Da muss man schneiden. Perverserweise bin ich fast erleichtert. Es muss also was operiert werden. Also glauben die nicht, dass ich ein schlimmer Hypochonder bin.

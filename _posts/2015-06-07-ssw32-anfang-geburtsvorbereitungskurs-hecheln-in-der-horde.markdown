@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw32_anfang_kurs.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Das sind meine Mädels aus dem Geburtsvorbereitungskurs. Wir sind von links nach rechts nach Entbindungstermin sortiert. Mich seht ihr ganz links.</figcaption>
 </figure>
 
-Das sind meine Mädels aus dem Geburtsvorbereitungskurs. Wir sind von links nach rechts nach Entbindungstermin sortiert. Mich seht ihr ganz links.
 Insgesamt sind es sieben Termine. Der dritte und fünfte Abend ist ein Partnerabend. Da dürfen die Männer mitkommen. Ich bin ganz schön aufgeregt vor meinem ersten Mal! Ich hab nämlich keine Ahnung was da auf mich zukommt. Muss ich hecheln? Machen wir diese Atemübungen, die ich zigfach in Romantik-Komödien a lá Hollywood gesehen habe oder bekommen wir gar eklige Videos mit Blickwinkel aus der Vollfrontalen gezeigt? Wir werden sehen!
 
 Ich bin überhaupt total spät dran. Den Kurs habe ich schon gebucht, da war ich gerade mal so im vierten Monat. Vorlauf gab es also genug. Nur eben keine freien Termine. Zu dem Zeitpunkt hab ich mir jedenfalls noch keine größeren Sorgen gemacht. Doch in den letzten Tagen ist mir etwas klar geworden... Mit meinem errechneten Entbindungsdatum wird das nämlich eine verdammt knappe Kiste! 40 Wochen ist man im Schnitt schwanger. Medizinisch gesehen bin ich in der 33. Woche und die nächsten SIEBEN Wochen habe ich Kurs. Fällt Ihnen auch was auf?

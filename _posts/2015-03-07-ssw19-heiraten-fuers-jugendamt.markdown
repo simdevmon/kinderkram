@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw19_baby_bauch.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Ein kleines Bauch-Update. Meine süße, kleine Babykugel!</figcaption>
 </figure>
 
-Ein kleines Bauch-Update. Meine süße, kleine Babykugel!
 Ähm, nein. Warum? Sollte ich? Beim ersten Mal habe ich noch gelacht, bei der zweiten Nachfrage habe ich den Kopf geschüttelt und nachdem ich auch meine Mutter am Telefon beruhigen musste („Nein Mutti. Ich will nicht heiraten. Ich brauche die Geburtsurkunde für einen Haufen anderer Sachen!!!“), frage ich mich ernsthaft, was da los ist. Macht man das so? In einem Zeitalter von wilder Ehe, Patchworkfamilien und anderen Lifestyle-Einstellungen? Ich jedenfalls habe vorher nicht einen Gedanken daran verschwendet.
 
 Zum Teil muss ich mich sogar rechtfertigen warum ich meinem Kind das antun will. So als Bastard aufzuwachsen. Im Ernst! Das hat mir wirklich jemand ins Gesicht gesagt. Und viel schlimmer noch: Es auch so gemeint! Ich jedenfalls möchte nicht heiraten weil ein Baby unterwegs ist. Ich will mal heiraten weil die Liebe meines Lebens vor mir auf die Knie fällt und fragt. Und wenn ich dann in einem Wahnsinnskleid da stehe und er um die Kurve biegt soll er sich denken: „Jawoll, das ist meine super heiße, tolle Frau“. Das wäre ein Grund zu heiraten. Und nicht weil „man das eben so macht“. Aus irgendeinem Pflichtgefühl heraus.

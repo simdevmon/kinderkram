@@ -1,5 +1,5 @@
 ---
-title:  "Wollen wir ein Baby?"
+title:  "Rückblick - Wollen wir ein Baby?"
 date:   2014-11-23 10:00:00 +0200
 header:
   teaser: ../../../../../images/wollen_wir_ein_baby_teaser.png

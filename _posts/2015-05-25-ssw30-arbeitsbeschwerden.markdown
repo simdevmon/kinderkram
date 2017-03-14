@@ -9,10 +9,8 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw30_arbeit.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Mein Schreibtisch. Statt einem Bürostuhl hätte ich viel lieber ein Bett!</figcaption>
 </figure>
-
-Mein Schreibtisch. Statt einem Bürostuhl hätte ich viel lieber ein Bett!
 
 Still-BHs kaufen? Na dreimal dürfen Sie raten, wann das auf meiner Agenda steht. Dabei habe ich die letzten Monate Stein und Bein geschworen, dass ich diese Schonzeit vor der Geburt nicht brauche. Ich habe wirklich geglaubt, dass ich mich zu Tode langweilen werde. Aber bei meiner To-Do-Liste, die jeden Tag größere Ausmaße annimmt, werde ich mich garantiert nicht langweilen. Außerdem wird das Arbeitsleben jetzt zunehmend anstrengend. Nicht der Job an sich, aber die Begleiterscheinungen der Schwangerschaft. Spätestens nach der Kantine schreit jede Faser meines Körpers nach einem Schläfchen. Geht aber natürlich nicht. Und das ist nur ein Beispiel.
 

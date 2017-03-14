@@ -9,10 +9,9 @@ tags:
 
 <figure>
   <img src="../../../../../images/ssw14_anfang_hunger.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Frühstück ist fertig!</figcaption>
 </figure>
 
-Frühstück ist fertig!
 Ist aber auch wurscht. Denn die Antwort ist NEIN! Nicht die ganze Zeit. Seit ich schwanger bin, habe ich genau ein einziges Mal saure Gurken gegessen. Zum Abendessen. Mit dunklem Brot und NICHT mit Nutella drauf. Eklige Vorstellung sowas. Aber wer‘s mag, soll’s um Himmels Willen essen!
 
 Seit der elften Woche ist mir auch nicht mehr so schlecht dass ich meinen Heimweg so planen muss, dass die U-Bahn ja nicht stickig ist und ich möglichst in keinen Bus steigen muss. Das war die ersten Wochen nämlich tatsächlich tödlich. Genau wie der Geruch von Zigarettenrauch (alter, der in Klamotten, Bärten und Haaren klebt). Wenn ich nur daran denke, könnte ich speien! Das Baby verleiht mir einen feineren Geruchssinn. Ganz eindeutig. Und das ist nicht immer positiv. Körperausdünstungen sorgen dafür, dass sich mir der Magen umdreht und Dinge, die ich früher sehr gern gerochen habe, verursachen mir jetzt noch Übelkeit. Fisch zum Beispiel.

@@ -1,0 +1,25 @@
+---
+title:  "{::nomarkdown}Babys 30. Woche: Mutterinstinkt oder „Verwöhn das Kind doch nicht so!“{:/}"
+date:   2016-03-06 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw30_mutterinstinkt_teaser.png
+tags:
+---
+**Ich bin reichlich spät dran mit dem Thema, weil es von Anfang an eines war aber jetzt gerade bin ich wieder auf 180. Was soll der Scheiß? Ständig höre ich ganz tolle Tipps zur Kindererziehung. Dies darf man nicht, jenes nicht. Gleich hin rennen wenn es weint? Auf keinen Fall! Bla! Mir reicht‘s!**
+
+<figure>
+  <img src="../../../../../images/bw30_mutterinstinkt.jpg" alt="">
+  <figcaption>Mein Baby erkundet seine Welt. Bei dem schönen Wetter am Wochenende waren wir unter anderem im Olympiapark. Ohne Kinderwagen - wie immer eigentlich. Das Kind will getragen werden und wir kloppen uns darum, wer sie nehmen darf. Passt also.</figcaption>
+</figure>
+
+Wenn ich könnte, würde ich kleine Dampfwölkchen aus den Nasenlöchern prusten. So sehr bringt mich eine Freundin auf die Palme. Wir diskutieren schon den ganzen Morgen via WhatsApp. Sie ist felsenfest davon überzeugt, ihren drei Monate alten Sohn verwöhnt zu haben weil er immer weint, wenn sie ihn irgendwo ablegt. Ich versichere ihr, dass man Babys in diesem Alter überhaupt nicht verwöhnen kann. Sie glaubt mir nicht. Ihre Oma (der sie sehr nahe steht) sagt ihr, dass der kleine Mann auch mal schreien muss nach der Mama. Und dass die eben nicht immer gleich springen soll. Damit er nicht merkt, wie sehr er sie im Griff hat und dieses Wissen nutzt, um die liebe Mama zu terrorisieren. Sie selbst befindet sich im Zwiespalt. Sie glaubt ihrer Oma und will das durchziehen. Aber sie schafft es nicht. Weil es ihr das Herz bricht, ihren Sohn so kläglich jammern zu sehen. Und genau das ist der Punkt, der mich wahnsinnig macht. Sie SPÜRT doch, was richtig ist, verdammt nochmal! Warum will sie dann etwas anderes tun?
+
+Selbstverständlich springe ich, wenn mein Baby heult. Ich KANN auch gar nicht anders. Weinen lassen? Das geht überhaupt nicht. All meine Instinkte sträuben sich dagegen. Vor allem natürlich der Mutterinstinkt. Der möchte das kleine, unglückliche Wesen sofort auf den Arm nehmen und trösten. Also mache ich das. Und zwar immer. Ich habe kein Schreibaby. Wenn mein Baby schreit, hat es auch was. Das ist nicht immer Hunger oder eine volle Windel, sondern kann auch etwas sein, dass für mich nicht auf den ersten Blick ersichtlich ist. Zahnschmerzen zum Beispiel. Ich war auch schon verzweifelt, weil ich nicht wusste, was der kleine Mensch nur von mir will. Aber ich hab sie so lange herumgetragen, getröstet, ihr vorgesungen, die Brust gegeben und was weiß ich noch alles, bis es irgendwann gut war. Ich kann nachvollziehen, dass man vor lauter Stress mal zwei Minuten den Raum verlässt um tief durchzuatmen und nicht auszurasten, aber mit Absicht? Zehn Minuten heulen lassen und abwarten, was passiert? Auch auf die Gefahr hin, mir hier Feinde zu machen. Aber das ist brutal! Das sollte man seinem Baby nicht antun. Da verlieren sie über kurz oder lang doch das angeborene Urvertrauen.
+
+Was sollen Babys denn machen, wenn ihnen etwas fehlt? Sie können sich nicht anders artikulieren als eben zu weinen. Und es hat verschiedene Arten von Weinen im Repertoire. Wenn Johanna müde ist, klingt das anders, als wenn sie Schmerzen hat. Mit der Zeit erkennt man das.
+
+Viele befreundete Mütter sind auch genervt davon, dass sie ihre Kinder nicht ablegen können ohne großes Geschrei. Tja. Das ist nervig. Vor allem, weil man für manche Sachen eben zwei Hände braucht. Das geht mir auch so aber Babys sind eben auch Traglinge. Es gibt nichts Natürlicheres als sein Baby den ganzen Tag herum zu schleppen. Johanna will abwechselnd selbst die Welt erkunde (krabbeln) und getragen werden. Zum Ausruhen, Kraft sammeln. Meine Lieblingshebamme erzählt gern, dass Kinder, die in den ersten Monaten besonders viel Körperkontakt bekommen und getragen werden, schneller selbstständig werden. Dass sie sich eher was trauen und kommunikativer, mutiger sind. Einfach weil sie viel Geborgenheit bekommen haben und das Vertrauen so gestärkt wurde, dass sie starke Persönlichkeiten werden können. Ich denke, dass da was dran ist.
+
+Und all die Meinungen von wegen „Das Kind muss spätestens mit sechs Monaten durchschlafen weil es nachts dann nichts mehr zu essen braucht, mit vier Monaten sollte man abgestillt haben, das Kind muss mit spätestens acht Monaten in ein eigenes Zimmer...“ (all diese Weisheiten muss ich mir anhören), halte ich für ausgemachten Bullshit. Jedes Kind ist anders. Und mein Baby hätte sicher kein Verständnis dafür, wenn ich ihm jetzt, mit sieben Monaten, eröffne, dass es gefälligst durchschlafen soll weil es ja jetzt keinen Hunger mehr hat. Das sieht Johanna nämlich ganz anders.
+
+Und überhaupt sollten wir Mütter viel mehr auf unseren wichtigsten Ratgeber hören. Auf unser Mutterherz. Und du liebe Maria, tröste bitte weiter deinen kleinen Schatz wenn er nach der Mama verlangt. Du machst instinktiv alles richtig!

@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 24. Woche: Windelogie - Die Wissenschaft von der Windel{:/}"
+date:   2016-01-23 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw24_windelogie_teaser.png
+tags:
+---
+**Ich komme nicht länger drumrum. Mit Einführung der Beikost drehen sich Mutti-Gespräche verstärkt auch wieder um Windeln. Und deren Inhalt. Wenn diesen Artikel jemand in der Mittagspause lesen will, soll er sich hinterher nicht beschweren, dass ich ihn nicht gewarnt hätte. Heute wird’s eklig!**
+
+<figure>
+  <img src="../../../../../images/bw24_windelogie.jpg" alt="">
+  <figcaption>Heute muss, auch im Interesse der Leserin, ein Symbolbild herhalten :)</figcaption>
+</figure>
+
+Apropos eklig. Starten wir doch gleich mit einem neuen Tiefpunkt der Mutterschaft. Johanna war gestern ziemlich quengelig weil sich die ersten Zähnchen anmelden. Eine Spitze schaut schon raus. Jedenfalls wollte ich sie mit dem Flieger aufmuntern. Also ich liege auf dem Rücken und balanciere sie auf meinen angewinkelten Knien. Da kam mir ein riesiger Schwall halbverdauter Milch entgegen. Mitten ins Gesicht. Ich hatte zu dem Zeitpunkt Besuch von zwei Freundinnen und habe mich mit ihnen unterhalten während das passiert ist. Sprich: Mein Mund war nicht geschlossen. Und jetzt kannst du dir selbst überlegen, was genau das bedeutet. BÄH! Echt! Und auch noch vor Zeugen. Da kommt zum Ekelfaktor gleich noch die Peinlichkeit.
+
+Also gut. Wenn wir schon so schön im Thema sind. In meiner Mutti-Gruppe wird gerade heiß diskutiert, welche Windel man für welche Babyfigur und welche Dauer am besten hernimmt. Am Anfang dachte ich noch: „Na jetzt geht’s aber los. Haben die keine anderen Probleme?“ Ich hab bis dato immer die Eigenmarken der Drogerien gekauft und die Packung eben so lange benutzt bis sie alle war. Fertig. Die anderen Mädels gehen den Windelkauf aber viel taktischer an. Das eine Baby hat zu dicke Beinchen für die Drogerie-Windeln. Daher muss sie die teure Marke kaufen. Eine andere Mutter schwört auf ALDI-Windeln weil die ihrem dürren Baby am besten passen. Und die sind so dünn, dass sie das Kind nicht in seinem Bewegungsdrang einschränken. Aha. Das lässt sich hier endlos weiter führen. Wir Mütter verraten nämlich auch gern, wie der Inhalt der Windeln aussieht. Und wenn Moritz gerade kackt wie ein Waldesel, ist es sogar egal, welche Marke man nimmt. Denn diesen Massen ist kein Modell gewachsen.
+
+Ich bin ja ganz froh. Das letzte Mal, dass Johanna wirklich von oben bis unten voll gekackt war, also inklusive Bodys und Strumpfhose, ist jetzt circa anderthalb Monate her. Und um, wie versprochen, noch ein echtes Sch… -Thema anzusprechen: Bei meiner Tochter wars ein paar Wochen lang giftgrün. Ich war deshalb sogar mit ihr beim Kinderarzt aber der hat Entwarnung gegeben. Das kann schon mal vorkommen. Mittlerweile sind wir bei vier bis fünf Windeln täglich und nur eine davon löst Brechreiz aus. Zumindest bei Johannas Papa. Mir macht es nichts aus. Egal wie viel oder übel riechend. Aber wenn mein Liebster AUSNAHMSWEISE mal eine Kack-Windel erwischt, tut er, als würde er jeden Moment in Ohnmacht fallen. Er hustet und röchelt dann auch immer. Das arme Kind weiß dann gar nicht was er denn hat, der Papa, und schaut ihn mit großen Augen an. Das Theater gebe ich mir nur ungern. Aber ab und zu muss er da einfach durch. Denn besser wird’s nicht. Der süßliche Muttermilchstuhl weicht langsam dem Pastinakenschiss. Und der ist ehrlich kein Spaß mehr.
+
+Um die Windelproblematik aber zu Ende zu bringen, kann ich ja noch verraten, wie ich es jetzt mache. Da ich bei sämtlichen Babyprogrammen der Drogerien angemeldet bin, bekomme ich regelmäßig Gutscheine. Auch für Windeln. Und dann kaufe ich bevorzugt die teure Marke. Eine dicke Windel für die Nacht (weil sie die ja dann doch ein paar Stunden trägt) und eine dünne Windel für tagsüber damit mein Action-Baby nicht bei ihren lustigen Krabbelversuchen behindert wird. Für uns funktioniert das super. Aber das ist eine sehr individuelle Geschichte. Andere Babys versuchen ja auch nicht das Krabbeln zu lernen indem sie den Hintern in die Luft strecken und mit der Wange über den Boden schrappen. Und wo der Hintern hier gerade schon in der Luft ist, fällt's mir auch auf. Irgendwie stinkt's hier. Nach Pastinake wenn ich nicht irre.

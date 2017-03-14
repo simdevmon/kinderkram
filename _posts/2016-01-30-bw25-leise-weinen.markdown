@@ -1,0 +1,19 @@
+---
+title:  "{::nomarkdown}Babys 25. Woche: Wenn Mama leise weinen geht{:/}"
+date:   2016-01-30 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw25_weinen_teaser.png
+tags:
+---
+**Bevor mein Kind mich wieder anlacht und ich plötzlich alles nicht mehr so schlimm finde, schreibe ich jetzt schnell mal wie es mir WIRKLICH geht. Beschissen! Johanna zahnt wie Sau, hat einen Infekt, ich bin ebenfalls krank und musste heute Nacht um drei Uhr aufstehen um die Kleine zu bespaßen. Bis um sechs. Ich bin am Ende.**
+
+<figure>
+  <img src="../../../../../images/bw25_weinen.jpg" alt="">
+  <figcaption>Unser Überlebens-Täschchen begleitet uns gerade überall hin.</figcaption>
+</figure>
+
+Seit circa einer Woche sabbert mein Kind wahre Wasserfälle zusammen. Sie quengelt, sie weint, sie stopft sich die kleinen Fäustchen in den Mund und isst kaum. Klare Sache. Die Zähne kommen langsam. Diese Woche wird sie sechs Monate alt und liegt damit absolut im Durchschnitt, was die ersten Beißerchen betrifft. Zu sehen ist allerdings noch nichts. Doch sie leidet. Und ich leide mit. Erstens, weil ich es nicht haben kann, wenn meinem Augenstern etwas weh tut und zweitens, weil es einfach anstrengend ist. Den ganzen Tag ist sie immer wieder untröstlich. Gestern hat die arme Maus sogar im Schlaf geweint. Das Trinken scheint ihr weh zu tun und überhaupt ist es phasenweise einfach so schlimm, dass gar nichts geht. Essen zum Beispiel. Die Brust scheint okay zu sein, am Fläschchen nuckelt sie immer nur kurz, bevor sie wieder weint und den Brei, den ich täglich frisch koche… Ja, das ist schon wieder eine eigene Geschichte.
+
+Johanna isst meistens drei, vier Löffelchen und Schluss. Ich hab die Mengen sogar schon halbiert aber ich schmeiße immer noch den Großteil weg. Das ärgert mich zusätzlich. Ist aber auch nachvollziehbar, glaube ich. Ich kaufe nur feinste Bio-Sachen für mein Baby, bereite zum Teil früh um sechs, völlig übermüdet, den Mittagsbrei vor und das nur für ein paar Happen. Das ist frustrierend! Aber damit nicht genug. Nein. Meine arme Tochter hat sich auch noch einen Infekt geholt. Und mich drei Tage später damit angesteckt. Während sie inzwischen Gott sei Dank nicht mehr hustet und klingt, als hätte sie Reißnägel gegurgelt, geht’s mir richtig schlecht. Ich habe Hals- und Kopfschmerzen und atmen kann ich auch nicht. Weil die Nase so zu ist. Aber all das reicht natürlich nicht. Erschwerend hinzu kommt, dass mein Baby neuerdings wieder morgens um fünf Uhr die Nacht für beendet erklärt. Sie ist dann einfach blitzwach. Und ich bin nur noch eines: Erschöpft. Ich hab in dieser Situation sogar schon geheult vor lauter Verzweiflung. Bitte Kind! Nur eine halbe Stunde länger!!!
+
+Meine Lieblingsnachbarin meinte gestern, dass Johanna am Ende eines längeren Wachstumsschubes und deshalb so anstrengend sei. Der Infekt und die Zähne setzen dem Dilemma nur noch die Krone auf. Kann sein. Vielleicht aber auch nicht. Eigentlich ist es mir egal. Ich will nur dass es aufhört. Meiner Süßen soll es endlich wieder gut gehen. Ich will mein fröhliches Kind zurück. Ob mit oder ohne Zahn. Und ich will schlafen verdammt. Einfach mal schlafen. Seit einem halben Jahr bekomme ich allerhöchstens mal vier Stunden Schlaf am Stück. Mit viel Glück. Und ich liebe meine Maus von Herzen aber heute bin ich schlecht drauf. Meine Augenringe reichen bis in meine Kniekehlen und ich finde, man kann ruhig auch mal sagen wenn was nicht so toll läuft. So. Und wo ich mich grad so schön ausgekotzt habe, geht’s mir eigentlich schon wieder besser. Ich pack lieber mal wieder den Beißring in den Kühlschrank. Damit ich ihn nachher parat habe. Irgendwie kriege ich meine Süße schon über die schwere Zeit...

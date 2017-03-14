@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 19. Woche: Peinlich, eklig, unwürdig{:/}"
+date:   2015-12-16 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw19_peinlich_teaser.png
+tags:
+---
+**VOR dem Baby hört man immer wieder mal Erzählungen von Müttern, die einem beim bloßem Zuhören die Zehennägel aufrollen. Einfach weil's eklig ist. Ich kenn zum Beispiel eine, die besondern gern über den Windelinhalt des Filius philosophiert. Bäh, echt. Tatsächlich bleibt ein gewisses Interesse an Verdautem nicht aus, wenn man so einen Zwerg hat. Aber muss man das wirklich ungefragt mit jedem teilen?**
+
+<figure>
+  <img src="../../../../../images/bw19_peinlich.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Dabei mach ich mir selbst ja auch Gedanken um Windeln. Genau wie die anderen Muttis. Die machen da eine wahre Wissenschaft draus. Welche Pampers für jeden Anlass? Jahaaa, da gibt es Unterschiede. Und wer hat die beste Passform für welche Babyfigur? Aldi und Müller für die langen, dünnen Babys. DM und Rossmann für die breiteren Kaliber, allerdings nicht für die Nacht. Und so weiter. Und so selbstverständlich das alles für mich ist, bekomme ich doch hin und wieder einen Anfall bei dem ich mir denke: „Was mache ich hier eigentlich?“ Spätestens wenn man vor kinderlosen Freunden das Baby hochhebt und die Nase verdammt nah am Windelpopo Fährte aufnehmen lässt, komm ich mir komisch vor. Aber so check ich halt, ob Johanna rein geknattert hat oder nicht.
+
+Es geht aber durchaus noch schlimmer. Zur Zeit spuckt meine Kleine zum Beispiel viel und es gibt Tage, da bekomme ich den Geruch vergorener Milch gar nicht mehr aus der Nase. Das Kind viermal am Tag umziehen? Mach ich hin und wieder. Geht ja nicht anders. Da hilft auch das größte Lätzchen irgendwann nicht weiter. Mich selbst schütze ich bestmöglich mit einer Mullwindel. Doch auch das ist nicht immer von Erfolg gekrönt. Dass ich den Wäscheständer gar nicht mehr zusammen klappe, daran hab ich mich schon gewöhnt aber noch höhere Wäscheberge müssen dann auch nicht sein. So kommt es schon mal, dass ich einen Schwall Babykotze reflexhaft mit den bloßen Händen auffange. Nur um die Klamotten zu schützen? Ist eklig? Aber hallo! Und trotzdem mache ich es.
+
+Oder wenn der Schnulli unterwegs in den Dreck fällt und ich hab keine feuchten Tücher mehr zum Abwischen. Wie wird das Problem gelöst? Genau. Ich steck mir das Ding in den Mund, lutsche den Dreck runter, spucke ihn aus und mein kleiner Liebling hat wieder einen sauberen Schnuller. Das soll man eigentlich nicht machen, weil Karies von der Mutter so auf das Baby übertragen wird. Aber erstens hat mein Baby noch keinen einzigen Zahn und zweitens: Wo ist die Alternative? Eine drei viertel Stunde pures Unglück auf dem Arm? Das hält niemand durch, der ein Herz hat!
+
+Bestenfalls hat die Schnuller-Säuberungsaktion so lange gedauert, dass mein Kind nicht mehr einschlafen kann und leise vor sich hin schluchzt. Was bei uns dann prima hilft, ist Vorsingen. Ihre aktuellen Lieblingshits: „Hänschen klein“, „Der Kuckuck und der Esel“ und „Im Frühtau zu Berge“. Und die singe ich dann eben. Während ich mit dem Baby im Tragetuch auf dem Heimweg bin. In Endlosschleife. Denn auch alle drei hintereinander weg gesungen überbrücken keine drei Kilometer Fußweg. Dabei werde ich öfter mal angeschaut als hätte ich nicht alle Latten im Zaun. Denn Johanna gibt sich nicht mit sanft gehauchten Kinderliedern zufrieden. Die müssen schon aus voller Kehle geschmettert werden! Das ist mir peinlich. Jedes Mal. Und die Blicke der Leute sind selten verständnisvoll. Dazu muss ich aber auch sagen, dass ich eine beschissene Singstimme habe. Finden alle. Nur Babys nicht. Die lieben meine Stimme aus irgendwelchen nicht nachvollziehbaren Gründen. Und genau das hält mich in diesen Schäm-Momenten über Wasser. Was interessiert mich die Meinung von irgendwelchen Fremden? Mein Baby liebt es. Und es hilft ihr, sich zu beruhigen. Durch diese Methode kommen wir IMMER ganz ohne Heulen von A nach B. Und das ist wichtiger als mein lächerlicher Stolz. Mütter verstehen das.
