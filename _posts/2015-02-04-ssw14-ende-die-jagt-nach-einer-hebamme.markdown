@@ -1,5 +1,5 @@
 ---
-title:  "Ende {::nomarkdown}15.{:/} Woche: Die Jagd nach einer Hebamme"
+title:  "Ende {::nomarkdown}14.{:/} Woche: Die Jagd nach einer Hebamme"
 date:   2015-02-04 10:00:00 +0200
 header:
   teaser: ../../../../../images/ssw14_ende_hebamme_teaser.png
