@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}25.{:/} Woche: Von Schwangeren umzingelt!"
 date:   2015-04-18 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw25_bauche_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Ja, ist denn gerade die ganze Welt schwanger?? Kugelbäuche soweit das Auge reicht! Ich gehe ins Eiscafé und hinter mir warten zwei weitere schwangere Frauen.**
-
-<figure>
-  <img src="../../../../../images/ssw25_bauche.jpg" alt="">
-  <figcaption>Sie sind überall. Egal wohin man sich auch dreht und wendet!</figcaption>
-</figure>
 
 Ich gehe mit meinem Freund ins Musical (Wir machen grad ganz viel zusammen weil Unternehmungen mit Baby ja dann erstmal wegfallen bzw. ganz anderer Natur sein werden…). Neben mir: Zwei schwangere Frauen, die sich über ebenfalls schwangere Freundinnen unterhalten. Und der absolute Hammer: Meine Nachbarin erwartet auch ein Baby! Das ist deshalb der Hammer weil wir in einem Haus mit sechs Parteien wohnen. Das ist echt nicht viel. Und als wir letzte Woche zufällig zur gleichen Zeit von der Arbeit nach Hause kommen, fallen mir fast die Augen aus dem Kopf als ich die Kugel sehe, die sie vor sich her schiebt. Ihr Geburtstermin ist der 1. Juli. Also knapp einen Monat vor mir. Sie bekommt einen Jungen und ich entwickle sofort Fantasien von einer Kinderfreundschaft, die zur ersten Liebe wird und dann… Ich schweife ab!
 

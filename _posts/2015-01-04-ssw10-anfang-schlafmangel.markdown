@@ -2,15 +2,10 @@
 title:  "Anfang {::nomarkdown}10.{:/} Woche: Schlafmangel"
 date:   2015-01-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw10_anfang_schlafmangel_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Es ist halb ein Uhr morgens. Ich bin vor zwei Stunden erst ins Bett gegangen, aber liege schon wieder wach. Der Grund: Ich muss aufs Klo. Sehr nervig. Ich fühle mich wie eine 80-Jährige.**
-
-<figure>
-  <img src="../../../../../images/ssw10_anfang_schlafmangel.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Mein Körper sollte ja wohl in der Lage sein, zumindest ein paar Stunden durchzuhalten und mich in Ruhe pennen zu lassen, bevor ich schon wieder einem Bedürfnis nachgehen muss. Ich bin erst in der zehnten Woche. Also kann das winzig kleine Baby - ich nenne es manchmal noch liebevoll "meinen kleinen Zellhaufen" - schon mal nicht schuld daran sein. Der Hammer kommt aber noch: Dieses Spiel wiederholt sich alle zwei Stunden. Hab ich jetzt auch noch ne Blasenentzündung oder was? Mir tut nix weh. Ich muss nur nachts alle zwei Stunden raus und tagsüber gerne auch im 20-Minuten-Takt. Für meinen Weg in die Weg in die Arbeit brauche ich eine knappe Stunde und ich beginne mir richtige Schlachtpläne zu überlegen, um diese Strecke ohne Zwischenstopps zu absolvieren.
 

@@ -2,15 +2,10 @@
 title:  "Anfang {::nomarkdown}23.{:/} Woche: Wie wollt ihr es denn nennen?"
 date:   2015-04-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw23_baby_name_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Kunigunde, Peaches Princess oder lieber Lavinia-Laetizia? Ich hatte keine Ahnung, wie viele Vornamen es gibt. Also jedenfalls nicht so richtig. Doch seit ich mich näher mit dem Thema beschäftige, bin ich von Möglichkeiten und Unmöglichkeiten überfordert.**
-
-<figure>
-  <img src="../../../../../images/ssw23_baby_name.jpg" alt="">
-  <figcaption>Wenn ich ein Auto hätte, könnte ich mir auch so einen tollen Sticker auf die Heckscheibe pflastern :)</figcaption>
-</figure>
 
 Ich liebe ja die Vornamensstatistik, die jedes Jahr veröffentlicht wird. Denn einen Namen für mein Baby hatte ich schon immer im Hinterkopf. Allerdings will ich nicht, dass in der Schulklasse meiner Kleinen später drei weitere Mädels mit demselben Vornamen hocken. Daher schadet es nicht, sich die Hitliste der Deutschen mal anzugucken… Und beim letzten Mal war ich geschockt! Da stand nämlich tatsächlich - seit Jahren zum ersten Mal - MEIN Wunschname für mein Baby unter den Top 10. Tja. Damit fällt er jetzt aus meiner engeren Wahl. Aber so einen komplizierten, englischen oder Hauptsache ausgefallenen und einzigartigen Namen will ich ihr auch nicht geben. Die Sache will gut überlegt sein.
 

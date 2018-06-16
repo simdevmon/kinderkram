@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}22.{:/} Woche: Elternabend - Mit der Herde in die Klinik"
 date:   2015-03-31 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw22_ende_kreissaal_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Wo soll mein Baby auf die Welt kommen? Diese Frage habe ich mir nicht so wirklich gestellt, weil ich recht klare Vorstellungen von der Sache hatte - bisher! Wie sich jetzt aber herausstellte, habe ich absolut keine Ahnung.**
-
-<figure>
-  <img src="../../../../../images/ssw22_ende_kreissaal.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Wenn es nach mir ginge, würde ich einfach ins nächste Krankenhaus fahren, wenn die Fruchtblase geplatzt ist und die Wehen immer heftiger werden. So läuft das aber nicht. Man muss sich für eine Geburt in einer passenden Klinik anmelden. Habe ich gerade erst erfahren und finde ich irgendwie befremdlich. Aber gut. Dann ist das eben so.
 

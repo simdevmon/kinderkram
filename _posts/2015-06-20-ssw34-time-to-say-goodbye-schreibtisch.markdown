@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}34.{:/} Woche: Time to say Goodbye Schreibtisch"
 date:   2015-06-20 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw34_schreibtisch_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Und jetzt fühlt es sich doch komisch an. Seit sechs Wochen sehne ich den Mutterschutz herbei und heute ist es endlich soweit. Letzter Arbeitstag! Morgen beginnt die 34. Schwangerschaftswoche und damit auch das gesetzlich festgelegte Beschäftigungsverbot. "Gott sei Dank" und "Ach du Scheiße"!**
-
-<figure>
-  <img src="../../../../../images/ssw34_schreibtisch.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Diese zwei Hauptgedanken geistern mir durch den Kopf. Weil ich auf To-Do-Listen stehe, habe ich mir im Vorfeld natürlich auch eine für meinen letzten Tag in der Arbeit gemacht. Schreibtisch ausräumen, fettes Abschieds- und spätes Geburtstagsfrühstück für die Abteilung auf den Tisch zaubern, Abwesenheitsassistenten einrichten und noch einige Punkte mehr.
 

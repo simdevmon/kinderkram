@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 12. Woche: Dann heul doch!{:/}"
 date:   2015-10-24 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw12_heuldoch_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Gott sei Dank habe ich eine gute Mutti-Community. Sonst würde ich verzweifeln und vereinsamen. Seit neuestem habe ich nämlich ein Phänomen an mir entdeckt, dass mich ernsthaft an meinem Verstand verzweifeln lässt. Da ich aber gern anderen Muttis mein Herz ausschütte, weiß ich inzwischen, dass es allen anderen genau so geht. Wir haben allesamt ein Stück unseres Charakters verloren!**
-
-<figure>
-  <img src="../../../../../images/bw12_heuldoch.jpg" alt="">
-  <figcaption>Solche Bilder machen mich noch viel fertiger als früher. Kinder - egal welcher Nationalität - denen keine schöne Kindheit gewährleistet werden kann...</figcaption>
-</figure>
 
 Bei einer alten Tatort-Folge, die ich vor kurzem mit meinem Freund zusammen gesehen habe (eine komplette Folge am Stück! Ich war fast bis zehn Uhr abends wach! Rekord!), musste ich flennen als gäbe es kein Morgen mehr. In der Folge war die Leiche eine alkoholkranke Mutter eines fünf Monate alten Jungen. Schlimm genug die Bilder, wie sie mit der Sektflasche im Bad stand und das Baby nebenan weinte. Da war meine Empörung schon groß. Aber als sie dann im Wald umgebracht wurde und das arme Baby mutterseelenallein im Kinderwagen lag, bei Temperaturen um den Gefrierpunkt und ohne die Aussicht noch in dieser Nacht gefunden zu werden, gab's kein Halten mehr. Wasser marsch! Mein Liebster entwand mir die Fernbedienung aber ich ließ nicht zu, dass er abschaltete. Ich wollte unbedingt wissen, ob das Baby gerettet werden würde!
 

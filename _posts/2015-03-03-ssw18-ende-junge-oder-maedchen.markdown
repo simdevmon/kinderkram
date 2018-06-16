@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}18.{:/} Woche: Junge oder Mädchen"
 date:   2015-03-03 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw18_ende_junge_maedl_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Eine der spannendsten Fragen überhaupt: Welches Geschlecht wird das Kind haben? Und über welches freuen sich die werdenden Eltern mehr?**
-
-<figure>
-  <img src="../../../../../images/ssw18_ende_junge_maedl.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Anfangs hat es mich nicht größer interessiert aber mittlerweile halte ich es vor Spannung kaum noch aus! Was wird es, ein Junge oder ein Mädchen? Ja klar, Hauptsache gesund denke ich mir auch aber ich will‘s trotzdem wissen. Schon wegen dem Einkaufen. Es ist nämlich gar nicht so einfach alles in Neutral zu besorgen. Was ist überhaupt neutral? Beige, Braun, Grün und Gelb und dann ist auch schon Ende der Fahnenstange. Wenn ich jetzt aber wüsste was es wird, kann ich richtig loslegen!
 

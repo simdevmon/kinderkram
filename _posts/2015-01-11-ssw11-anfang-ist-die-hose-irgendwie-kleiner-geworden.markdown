@@ -2,12 +2,10 @@
 title:  "Anfang {::nomarkdown}11.{:/} Woche: Ist die Hose irgendwie kleiner geworden?"
 date:   2015-01-11 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw10_anfang_schlafmangel_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **​Ich habe alles probiert. Ich habe die Luft angehalten, den Bauch eingezogen, auf dem Rücken liegend den Hintern in Richtung Himmel gestreckt - aber nichts hilft. Der Knopf meiner Lieblingsjeans lässt sich einfach nicht schließen. Was tun?**
-
-![](../../../../../images/jeans.jpg)
 
 Ich merke zwar schon seit ein paar Wochen, dass sich mein Körper verändert, aber das hier ist eine neue Eskalationsstufe! Größere Hupen finde ich ja gar nicht schlecht. Der kleine Schwimmring, der sich neuerdings auf den Hüften heimisch fühlt, ist auch noch kein Beinbruch. Aber was ziehe ich denn jetzt an? Ich bin gerade mal in der 11. Woche. Da kann ich doch noch keine Umstandsklamotten kaufen, oder? Schließlich könnte man immer noch denken, dass es mir in letzter Zeit halt gut schmeckt - wenn ich weite Oberteile trage. Bei engen Sachen ist die kleine Kugel ziemlich eindeutig identifizierbar als eben das, was sie ist: Der Ansatz eines Babybäuchleins.
 

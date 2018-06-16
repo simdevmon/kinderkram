@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}21.{:/} Woche: Lebst du noch?"
 date:   2015-03-21 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw21_wecker_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Angeblich spürt man die ersten Kindsbewegungen beim ersten Baby ab etwa der 18. Woche. Bei mir gab es zu diesem Zeitpunkt kein Lebenszeichen...**
-
-<figure>
-  <img src="../../../../../images/ssw21_wecker.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Ich mache mir Sorgen. Hat mein Baby den Stress der letzten Wochen gut überstanden? Gesundheitlich hatten wir ja wirklich eine Pechsträhne. Meine Kleine und ich. Und jetzt habe ich manchmal das Gefühl, gar nicht richtig schwanger zu sein. Klingt blöd. Schließlich habe ich einen kleinen Babybauch aber auch der kommt mir diese Woche irgendwie winzig vor. Und ich werde ständig gefragt ob ich mein Baby spüren kann oder ob es oft tritt und ob sie mal fühlen dürfen…
 

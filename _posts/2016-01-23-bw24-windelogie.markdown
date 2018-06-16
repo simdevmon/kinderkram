@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 24. Woche: Windelogie - Die Wissenschaft von der Windel{:/}"
 date:   2016-01-23 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw24_windelogie_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Ich komme nicht länger drumrum. Mit Einführung der Beikost drehen sich Mutti-Gespräche verstärkt auch wieder um Windeln. Und deren Inhalt. Wenn diesen Artikel jemand in der Mittagspause lesen will, soll er sich hinterher nicht beschweren, dass ich ihn nicht gewarnt hätte. Heute wird’s eklig!**
-
-<figure>
-  <img src="../../../../../images/bw24_windelogie.jpg" alt="">
-  <figcaption>Heute muss, auch im Interesse der Leserin, ein Symbolbild herhalten :)</figcaption>
-</figure>
 
 Apropos eklig. Starten wir doch gleich mit einem neuen Tiefpunkt der Mutterschaft. Johanna war gestern ziemlich quengelig weil sich die ersten Zähnchen anmelden. Eine Spitze schaut schon raus. Jedenfalls wollte ich sie mit dem Flieger aufmuntern. Also ich liege auf dem Rücken und balanciere sie auf meinen angewinkelten Knien. Da kam mir ein riesiger Schwall halbverdauter Milch entgegen. Mitten ins Gesicht. Ich hatte zu dem Zeitpunkt Besuch von zwei Freundinnen und habe mich mit ihnen unterhalten während das passiert ist. Sprich: Mein Mund war nicht geschlossen. Und jetzt kannst du dir selbst überlegen, was genau das bedeutet. BÄH! Echt! Und auch noch vor Zeugen. Da kommt zum Ekelfaktor gleich noch die Peinlichkeit.
 

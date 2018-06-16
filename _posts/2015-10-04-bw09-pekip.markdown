@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys neunte Woche: Osteopathie, PEKiP und Bahnhöfe{:/}"
 date:   2015-10-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw09_pekip_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **„Emilys schiefer Kopf ist wahrscheinlich eine Vermeidungshaltung weil sie Bauchschmerzen hat.“ „Mit Fynn sind wir morgen beim Osteopathen. Mal gucken ob der eine Erklärung für seine Schreiattacken hat!“ Wenn Sie jetzt wissen worum es hier geht, dann herzlichen Glückwunsch. Dann wären Sie nämlich wieder einer mehr, der dafür sorgt, dass ich mir vorkomme, wie der Mann aus den Bergen. Nämlich komplett ahnungslos angesichts der medizinischen Rundumversorgung für Babys. Ich habe keinen blassen Schimmer von Osteopathie. Doch damit stehe ich allein auf weiter Flur.**
-
-<figure>
-  <img src="../../../../../images/bw09_pekip.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 In meiner nähren Umgebung kenne ich circa zehn Muttis mit Kindern im gleichen Alter wie meins. Ohne Mist. Und das in einem Umkreis von einem knappen Kilometer. Das ist einerseits toll, andererseits Mist. Ich hab Schiss um meinen Krippenplatz! Aber das ist ein ganz eigenes Thema. Am Wochenende ist wieder ein Tag der offenen Tür in einer Kita um die Ecke. Ich werde berichten, wie es da zugegangen ist!
 

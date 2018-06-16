@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 28. Woche: Ist Mutti noch sexy?{:/}"
 date:   2016-02-20 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw28_sexy_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Ja Freunde. Selbstverständlich denken junge Muttis auch an Sex. Die eine mehr, die andere weniger. Eine schaut dem nächsten Stelldichein mit Schrecken entgegen, eine Andere freut sich drauf. Auf jeden Fall ist es ein Thema, das diskutiert werden muss. Und dabei geht’s immer auch um das Aussehen…**
-
-<figure>
-  <img src="../../../../../images/bw28_sexy.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Gestern hatte ich ein riesengroßes Erfolgserlebnis. Zum Spaß bin ich mal auf die Waage gestiegen und tadaaaa! - ich hab mein Vor-Schwangerschaft-Gewicht wieder. Heißt bei mir 63 Kilo. Acht habe ich direkt bei der Geburt verloren. Da sieht man mal, was so alles aus einem raus flitschen kann, abgesehen vom Baby. Ganz schön eklig, irgendwie. Die verbleibenden vier Kilos von den insgesamt zwölf, die ich zugelegt habe, hielten sich verdammt hartnäckig. Trotz stillen und allem Stress und Essen vergessen. Wurscht. Ich passe sogar wieder in meine alten Jeans. Leider heißt das aber noch lange nicht, dass ich auch aussehe wie vorher. Die Kaiserschnittnarbe teilt meinen Bauch weiterhin in zwei unschöne Wülste. Mein Freund findet das überhaupt nicht dramatisch und tatsächlich sieht es ja Monat für Monat besser aus. Aber wohl fühle ich mich damit nicht. Und wenn man sich nicht wohl in seinem Körper fühlt, hat man auch nicht mehr so viel Bock auf Beischlaf wie vor dem Baby. Abgesehen davon, dass MEIN Baby ein eingebautes Radar dafür zu haben scheint, wenn es bei uns zur Sache geht. Da wird sie nämlich wach. Da bekommt der Satz: „Die Mama kommt ja gleich!“ eine ganz andere Bedeutung.
 

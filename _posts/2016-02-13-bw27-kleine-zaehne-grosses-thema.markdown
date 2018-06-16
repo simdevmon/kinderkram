@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 27. Woche: Kleine Zähne, großes Thema{:/}"
 date:   2016-02-13 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw27_zaehne_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Meine Maus produziert mindestens die dreifache Menge an Sabber als eine Deutsche Dogge. Das arme Baby zahnt nämlich wie Sau. Und das ist im Verlauf des ersten Lebensjahres immer wieder ein Thema. Von Milchzahnkaries über verbotenes Einschlafstillen und korrekter Mundhygiene.**
-
-<figure>
-  <img src="../../../../../images/bw27_zaehne.jpg" alt="">
-  <figcaption>Diese junge Dame ist schon auf dem Weg zum zweiten Satz Zähne - Ich kann mir nichtmal vorstellen, wie meine Maus mit Beißerchen ausschaut.</figcaption>
-</figure>
 
 Johanna ist jetzt sechs Monate und fast zwei Wochen alt. Seit drei Tagen robbt sie vorwärts und ich muss zusehen, dass ich unsere Bude kindersicher mache. Sie wird nämlich immer schneller. Und ich bin natürlich stolz wie Bolle. Aber auch ein bisschen wehmütig. Der erste Zug nach vorn ist der erste Schritt zum Krabbeln, zum Aufstehen, zum Laufen und ehe ich mich versehe, geht sie aus dem Haus. Mein kleines Mädchen!! Das geht so schnell. Und jetzt spitzen auch noch die Zähnchen durchs Zahnfleisch.
 

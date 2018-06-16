@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 19. Woche: Peinlich, eklig, unwürdig{:/}"
 date:   2015-12-16 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw19_peinlich_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **VOR dem Baby hört man immer wieder mal Erzählungen von Müttern, die einem beim bloßem Zuhören die Zehennägel aufrollen. Einfach weil's eklig ist. Ich kenn zum Beispiel eine, die besondern gern über den Windelinhalt des Filius philosophiert. Bäh, echt. Tatsächlich bleibt ein gewisses Interesse an Verdautem nicht aus, wenn man so einen Zwerg hat. Aber muss man das wirklich ungefragt mit jedem teilen?**
-
-<figure>
-  <img src="../../../../../images/bw19_peinlich.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Dabei mach ich mir selbst ja auch Gedanken um Windeln. Genau wie die anderen Muttis. Die machen da eine wahre Wissenschaft draus. Welche Pampers für jeden Anlass? Jahaaa, da gibt es Unterschiede. Und wer hat die beste Passform für welche Babyfigur? Aldi und Müller für die langen, dünnen Babys. DM und Rossmann für die breiteren Kaliber, allerdings nicht für die Nacht. Und so weiter. Und so selbstverständlich das alles für mich ist, bekomme ich doch hin und wieder einen Anfall bei dem ich mir denke: „Was mache ich hier eigentlich?“ Spätestens wenn man vor kinderlosen Freunden das Baby hochhebt und die Nase verdammt nah am Windelpopo Fährte aufnehmen lässt, komm ich mir komisch vor. Aber so check ich halt, ob Johanna rein geknattert hat oder nicht.
 

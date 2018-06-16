@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}14.{:/} Woche: Die Jagd nach einer Hebamme"
 date:   2015-02-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw14_ende_hebamme_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Es wird Zeit, sich um Organisatorisches zu kümmern. Der wichtigste Punkt auf meiner Liste: Eine Hebamme finden! Nach der vollendeten 12. Schwangerschaftswoche habe ich angefangen zu telefonieren.**
-
-<figure>
-  <img src="../../../../../images/ssw14_ende_hebamme.jpg" alt="">
-  <figcaption>Wenn der Storch die Babys bringen würde, sorgte er dann auch für eine anständige Nachsorge??</figcaption>
-</figure>
 
 Zuerst probiere ich es bei einer Hebamme aus meiner näheren Umgebung, die ich übers Internet gefunden habe. Es war mir fast ein bisserl peinlich, mich so früh schon zu melden. Schließlich geht’s mir nur um die Nachsorge. Also nach der Geburt möchte ich jemanden haben, der vorbei kommt und mir mit Rat und Tat zur Seite steht. Was ist zum Beispiel, wenn es mit dem Stillen nicht klappt? Ich peinliche körperliche Beschwerden habe, über die ich mit meinem Freund schlecht reden kann (und der mir ja eh nicht helfen könnte)? Ich hab tierische Angst, das Baby kaputt zu machen und wenn ich weiß, dass Fachpersonal zur Stelle ist, um genau das zu verhindern, bin ich gleich viel beruhigter.
 

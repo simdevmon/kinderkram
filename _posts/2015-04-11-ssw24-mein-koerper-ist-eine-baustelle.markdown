@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}24.{:/} Woche: Mein Körper ist eine Baustelle"
 date:   2015-04-11 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw24_baustelle_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Na logo bin ich total leistungsfähig! Deshalb radle ich auch im Wildsau-Tempo die 16 Kilometer einfache Strecke in die Arbeit. In knapp 45 Minuten wohl bemerkt. Darauf bin ich stolz. Na zumindest habe ich das bisher immer mal wieder gemacht. Obwohl ich schon gemerkt habe, dass sich Mountainbike und wachsender Babybauch nicht unbedingt bestens verstehen...**
-
-<figure>
-  <img src="../../../../../images/ssw24_baustelle.jpg" alt="">
-  <figcaption>Das ist das gute Stück. Dieser Beckengurt soll mir Linderung verschaffen, wenn es gerade besonders doll weh tut. Ich darf ihn allerdings nur tragen, wenn ich in Bewegung bin.</figcaption>
-</figure>
 
 Wenn er noch ein bisschen größer wird, haue ich mir bei jedem Tritt in die Pedale ein Knie in den Bauch. Das mache ich natürlich nicht. Das wäre ja, als würde ich mein Baby treten. Aber so lange das noch nicht der Fall ist, radle ich weiter. Fit zu bleiben und nicht fett zu werden, ist mir nämlich wichtig. Aber das ist ein Thema, zu dem ich mal wann anders komme. Da gehen mir nämlich auch einige Dinge auf die Nerven.
 

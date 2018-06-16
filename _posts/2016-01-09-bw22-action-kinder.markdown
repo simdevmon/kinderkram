@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 22. Woche: Von Action-Kindern und Chill-Babys{:/}"
 date:   2016-01-09 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw22_action_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Jeder, der mich bisher zu meinem Mutter-Dasein gefragt hat, hat die selbe Antwort von mir bekommen. Ich finde es erstaunlich einfach. Mein Baby ist ein absoluter Sonnenschein und ich hab mir überhaupt alles viel schrecklicher vorgestellt. Auch mein Freund spricht gern von einem „Anfänger-Baby“ und dass unsere Tochter es uns wirklich leicht macht. Genau so empfinden wir es auch. Andere Leute, die unsere Süße kennen, sehen das allerdings ganz anders…**
-
-<figure>
-  <img src="../../../../../images/bw23_action.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Diese Woche war ich zum ersten Mal mit Johanna beim PEKiP. Ich wusste vorab nur darüber, dass die Kinder da nackig durch die Gegend wuseln können und dass es um Bewegung geht. Und irgendwas mit Lieder singen und spielen. Klang alles ganz prima, also hab ich mich angemeldet. Von den neun Muttis, die da mit ihren Babys im Kreis rum hockten, kannte ich nur drei nicht. Eine war aus dem Rückbildungskurs, drei von der Geburtsvorbereitung und meine Freundin Sabine aus der Parallelstraße ist auch dabei. Unsere Babys sind alle im ungefähr gleichen Alter. Und ich liebe ja Baby gucken. Einfach nur um zu sehen, was die anderen Zwerge so machen. In meinem Bekanntenkreis habe ich es nämlich oft, dass Mütter mit stolz geschwellter Brust erzählen, wie weit ihre Nachkommen denn für ihr Alter wären. Das ist natürlich Angeberei aber ich ertappe mich selbst auch dabei. Dass ich mir gern einreden würde, Johanna könne irgendetwas lange vor dem Durchschnittsalter. Und das beweist dann, dass sie unfassbar schlau ist. Aber mal ehrlich. Das ist Blödsinn. Jedes Baby kann irgendetwas anderes gut. Reine Typsache. Aber das Vergleichen liegt uns Weibern einfach im Blut. Ich wette, Männer machen das nicht. Zumindest nicht mit ihren Babys…
 

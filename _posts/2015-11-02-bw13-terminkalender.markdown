@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}​Babys 13. Woche: Babys Terminkalender{:/}"
 date:   2015-11-02 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw13_kalender_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Mittlerweile sind wir ein perfekt eingespieltes Team. Ich plane alle Erledigungen, Termine und unsere Freizeit nach den Schlafenszeiten meiner Maus. Und es funktioniert! Na gut. Meistens. Nur heute nicht. Aber sonst...**
-
-<figure>
-  <img src="../../../../../images/bw13_kalender.jpg" alt="">
-  <figcaption>Babyschwimmen geht ab dem vierten Lebensmonat. In München gibt's viele Angebote dazu.</figcaption>
-</figure>
 
 Was für ein Start in den Morgen! Zum ersten Mal ist das Baby, wie fast jeden Morgen, um fünf Uhr in der Früh wach. Sie schläft bei mir im Bett (Jaha… Ich weiß dass es dazu unterschiedliche Ansichten gibt aber für uns beide ist das im Moment gut und richtig). Und wenn meine Kleine um fünf Uhr morgens nur noch auf der Brustwarze herum kaut und dabei fröhlich palavert (sie klingt wie ein angeschossenes Robbenbaby), ist es verdammt schwer, sie nochmal zum Einschlafen zu bringen. Ich tue in der Regel so als würde ich schlafen. Wenn sie bemerkt, dass ich wach bin, ist die Nummer gelaufen. Ein Blinzeln von mir und meine Tochter lächelt mich hoch erfreut an und verstärkt die Lautstärke ihrer umfangreichen Erzählungen noch. Mit viel Geduld bekomme ich es hin, dass sie noch einmal einschläft. Bis maximal sieben aber das ist okay. Bei unserem morgendlichen „Schlaf-bitte-nochmal-ein-Kind-Spiel“ schnarcht mein Liebster übrigens ungerührt weiter. Er hat einen gesegneten Schlaf. Und manchmal hasse ich ihn dafür. Aber das ist wieder eine andere Geschichte.
 

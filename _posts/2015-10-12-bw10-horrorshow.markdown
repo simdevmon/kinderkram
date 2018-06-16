@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys zehnte Woche: Mamas kleine Horrorshow{:/}"
 date:   2015-10-12 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw10_horror_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Seit ich Mama bin, leide ich unter schlimmen Kopfkino-Attacken. Vor meinem inneren Auge laufen ständig fiese Filme ab, die alle einen Inhalt haben: Meiner Tochter passiert etwas Schlimmes. Ist das normal? Haben das alle Mütter oder hab ich einfach ne Macke?**
-
-<figure>
-  <img src="../../../../../images/bw10_horror.jpg" alt="">
-  <figcaption>Meine Maus ist noch zu klein um mit Strom zu spielen aber das kommt ja auch noch auf mich zu! Hilfe!!</figcaption>
-</figure>
 
 Ich gehöre eigentlich zu den eher lässigen Menschen. So wurde ich zum Beispiel schon zwei Mal (!) in meinem Leben von einem Auto überfahren und gehe trotzdem hin und wieder über eine rote Ampel. Wenn keine Kinder zugucken. Und ich mich hundert mal in alle Richtungen versichert habe, dass wirklich nichts kommt. Die Skipiste ist total vereist und ein Schneesturm zieht auf? Super! Sind weniger Leute im Weg. Von einem 17 Meter hohen Felsen in ein kleines Wasserloch springen? Da bin ich doch dabei! Aber seit der Geburt dieses zauberhaften kleinen Wesens, bekommt meine Sorglosigkeit langsam Risse…
 

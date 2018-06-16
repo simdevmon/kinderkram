@@ -2,15 +2,10 @@
 title:  "{::nomarkdown}Babys 14. Woche: Terror-Tage{:/}"
 date:   2015-11-07 10:00:00 +0200
 header:
-  teaser: ../../../../../images/bw14_terror_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Verschlafen blinzle ich auf den Wecker. Verdammt! Es ist gerade mal halb elf! Vor einer Stunde habe ich mich erst zu meinem Baby schlafen gelegt und jetzt hat sie schon wieder Hunger. Dabei war ich doch selbst gerade erst eingeschlafen... Na gut dann. Hilft ja nix. Baby angedockt und dann dämmern wir beide wieder weg. Bis halb zwölf. Dann das gleiche Spiel von vorn bis wir wieder beide einschlafen. Und der Spaß wiederholt sich seit einer Woche jetzt schon jede Nacht – stündlich! Ich bin erledigt. Erholsame Nächte gehen anders. Was ist da nur los?**
-
-<figure>
-  <img src="../../../../../images/bw14_terror.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Die ersten acht bis zwölf Wochen sollen die anstrengendsten sein. Das fand ich ab und zu zwar auch aber die Nächte waren bisher immer ganz gut bei uns. Die Kleine schläft zuverlässig zwischen sieben und acht Uhr am Abend ein und dann erstmal fünf bis sechs Stunden durch. Und bis sie um acht Uhr morgens endgültig erwacht, hatte sie vielleicht noch zwei bis drei mal Hunger in der Nacht. Das war okay. Damit konnte ich leben. Andere Muttis haben mich glühend um diesen Rhythmus beneidet. Tja. Dafür bekomme ich jetzt die volle Breitseite. Eigentlich sind die Nächte schon anstrengender geworden seit sie acht Wochen alt ist. Aber mittlerweile sind sie wirklich eine Katastrophe!
 

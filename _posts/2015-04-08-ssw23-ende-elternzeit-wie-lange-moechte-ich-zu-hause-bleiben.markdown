@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}23.{:/} Woche: Elternzeit - Wie lange möchte ich zu Hause bleiben?"
 date:   2015-04-08 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw23_ende_elternzeit_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Boah, schon wieder ein Thema, das was mit Antrag und Formular zu tun hat... Darauf hab ich keinen Bock. Dass man überhaupt so viel Papierkram hat und Sachen beantragen muss, macht mich ganz fertig.**
-
-<figure>
-  <img src="../../../../../images/ssw23_ende_elternzeit.jpg" alt="">
-  <figcaption>Elternzeit muss man sich leisten können. Und dabei nennen Politiker die Bezüge üppig. Pfff. Kann ja sein wenn man soviel verdient wie einer von denen!</figcaption>
-</figure>
 
 Sorgerechtserklärung und Vaterschaftsanerkennung haben wir ja schon. Als ich einen Geburtsvorbereitungskurs gesucht habe, musste ich auch wieder was ausfüllen. Um sich für einen Krippenplatz vormerken zu lassen sowieso. Dazu kommen Antrag auf Mutterschutzgeld, später Kindergeld, beim Standesamt muss das Kind angemeldet werden, meine Krankenkasse hat mich auch schon einen Antrag auf Krankenversicherung für meine Kleine ausfüllen lassen… Und so geht das ewig weiter. Mein Baby ist noch nicht einmal auf der Welt und hat schon einen eigenen Ordner in unserem Schrank!
 

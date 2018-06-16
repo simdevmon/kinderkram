@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}26.{:/} Woche: Bitte noch nicht jetzt!"
 date:   2015-05-01 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw26_ende_kreuz_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **Der Koffer steht offen vor dem Bett und ich überlege, was ich noch mitnehmen will. Es ist Sonntag und wir fliegen heute für eine Woche nach Kreta. Yeah! Urlaub! Und ein echtes Schnäppchen. Für 333 Euro haben wir Vollpension und die Flüge mit drin. Es wird unser letzter Urlaub zu zweit sein. Allerdings habe ich dieses Mal ein mulmiges Gefühl. Ich finde es schon ein bisschen spät für mich zu fliegen. In allen Ratgebern steht immer, dass man zwischen dem vierten und sechsten Monat am besten verreisen kann. Jetzt habe ich schon den siebenten Monat angekratzt. Das an sich würde mich noch nicht abschrecken, aber in Kombination mit den Schmerzen im Becken - naja. Wird schon werden, oder!?**
-
-<figure>
-  <img src="../../../../../images/ssw26_ende_kreuz.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Unser Flieger geht um 16 Uhr vom Münchner Flughafen - um 14 Uhr wollen wir da sein. Also noch jede Menge Zeit zum Koffer packen. Das mulmige Gefühl lässt sich allerdings nicht abschütteln. Zu den Gelenkschmerzen im Becken kommt jetzt ein fieses Ziehen im Unterleib. Beim Gang auf die Toilette werde ich dann wirklich unruhig. Ich möchte nicht genau ins Detail gehen (weil es ein bisschen eklig ist) aber ich meine, Anzeichen einer Frühgeburt zu haben. Es ist Sonntag - 11 Uhr am Vormittag - als ich zum ersten Mal meine Hebamme anrufe. Sie hat ausdrücklich gesagt, dass sie immer erreichbar ist und sie geht tatsächlich sofort ans Handy! Sie begrüßt mich mit Namen. Also hat sie sich meine Nummer eingespeichert. Das finde ich schon mal gut. Ich schildere ihr meine Beobachtungen und Symptome. Sie wird beim Zuhören immer ruhiger am Telefon. Das deute ich als schlechtes Zeichen und tatsächlich: Sie rät mir, bitte in die Klinik zu gehen. Sofort.
 

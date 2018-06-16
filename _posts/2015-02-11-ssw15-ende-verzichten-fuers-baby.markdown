@@ -2,15 +2,10 @@
 title:  "Ende {::nomarkdown}15.{:/} Woche: Verzichten fürs Baby"
 date:   2015-02-11 10:00:00 +0200
 header:
-  teaser: ../../../../../images/ssw15_ende_verzichten_teaser.png
+  teaser: ../../../../../images/generic_teaser.png
 tags:
 ---
 **​Ich wäre gerade bereit zu töten für eine Tasse richtigen Kaffee! Na dann trink halt eine! Sagen alle. Aber ich habe für mich beschlossen, für den Rest meiner Schwangerschaft auf Koffein zu verzichten. Denn das soll für die Entwicklung meines Nachwuchses nicht so förderlich sein.**
-
-<figure>
-  <img src="../../../../../images/ssw15_ende_verzichten.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
 Meine Frauenärztin sagt zwar, dass ich getrost zwei koffeinhaltige Getränke am Tag zu mir nehmen darf aber irgendwie macht mich diese Aussage nicht glücklich. Ich bin mehr so der "Ganz-oder-gar-nicht-Typ". Normalerweise trinke ich über den Tag verteilt literweise Kaffee, Cappuccino, Café Latte oder gern auch mal ne Cola Light zwischendurch. Und zwar leidenschaftlich gern. Ohne den ersten Koffeinschub am Tag geht bei mir eigentlich gar nichts. Doch bevor ich auch nur das kleinste Risiko eingehe, streiche ich das eben vorübergehend aus meiner Ernährung. Ich würde mir nie verzeihen, durch meinen hohen Kaffee-Konsum eine Fehlgeburt provoziert zu haben!
 
