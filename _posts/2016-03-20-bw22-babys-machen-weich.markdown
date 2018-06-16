@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 32. Woche: Babys machen weich, ängstlich und hässlich{:/}"
+date:   2016-03-20 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw32_buerste_teaser.png
+tags:
+---
+**Kinder halten einen jung! Ach ja? Ich für meinen Teil hatte schon starken Haarausfall (meine Bürste sah nach jedem Kämmen aus wie ein Meerschweinchen), keine Zeit für vernünftige Mahlzeiten und daraus resultierend schlechte Haut und brüchige Nägel. Dazu kommen (nach schlechten Nächten mit viel Stillen) Augenringe bis in die Kniekehlen. Ohne Scheiß, ich sah nie älter aus! Also stimmt das mit dem Junghalten schon mal nicht. Dass mit Kindern aber nichts mehr ist wie zuvor, stimmt absolut.**
+
+<figure>
+  <img src="../../../../../images/bw32_buerste.jpg" alt="">
+  <figcaption>Ja, das ist eklig und dabei habe ich die gerade erst sauber gemacht. Mir fallen die Hare aus wie Sau. Danke liebe Still-Hormone :/</figcaption>
+</figure>
+
+Ich bin ein Weichei geworden. In der Schwangerschaft war ich schon extrem nahe am Wasser gebaut. Nachdem das Baby da war, hab ich's auf die krasse Hormonumstellung geschoben aber ich heule immer noch wegen jedem Scheiß. Bei der Pampers-Werbung zum Beispiel. Oder wenn ich im Park sehe, dass eine Ente ganz allein vor sich hinschwimmt. Mein Gott, wo ist nur ihre Familie? Ob sie wohl traurig ist? Dass das ganz schön doof ist, merke ich selbst. Aber ich komme auch nicht dagegen an. Ich bin ein wandelndes Wasserwerk.
+
+Auch neu: Früher war ich tierisch genervt von rotznasigen, heulenden Bälgern. Am schlimmsten fand ich die in Restaurants (können die nicht zu Hause essen?) oder im Flieger. Das kann einem aber auch auf die Ketten gehen, wenn man sich auf einen erholsamen Urlaub freut und circa drei Stunden nonstop zugebrüllt wird. Die dazugehörigen Eltern habe ich für unfähig gehalten. Warum sind die denn nicht in der Lage ihren Nachwuchs ruhig zu stellen?? Klingt das böse? JA! Und wie! Das ist total fieser, ahnungsloser Bullshit. Das weiß ich jetzt auch. Und dass ich so eine verständnislose Kuh war, tut mir leid. SEHR! Wenn ich nämlich mit meinem brüllenden Kind im Restaurant saß weil ich dachte, heute ist sie super drauf und andere Mütter machen das ja auch, also wage es ausnahmsweise mal…, na jedenfalls genau dann, brannten die Blicke auf mir. Die der Kinderlosen. Die alle dachten: „Mein Gott, warum schafft diese unfähige Mutter es denn nicht, ihr Balg ruhig zu stellen?!“ Jaha. Ich wusste genau was denen durch den Kopf geht. Und brüllende Kinder im Flieger sind immer noch eine Herausforderung an die eigene Nervenstärke aber jetzt habe ich Mitleid mit den Eltern. Schlimmer noch! Ich überlege ernsthaft zu fragen, ob ich das Kind mal kurz nehmen soll. Vielleicht kann ich es ja trösten?! Die Wahrscheinlichkeit tendiert gegen null aber ich möchte es wenigstens versuchen, weil es mir das Herz zerreißt wenn IRGENDEIN Baby unglücklich ist. Da wären wir wieder beim Thema Weichei.
+
+Und ich habe Angst vorm Sterben. Ich habe Angst, dass meiner Tochter etwas zustößt und ich habe Angst dass mir etwas passieren könnte, was meine Maus zu einer Halbwaise macht. Ihre großen traurigen, tränengefüllten Augen wenn ihr jemand erklärt, dass die Mama nie wieder kommt… Schrecklich! Ich habe Albträume. Vor ein paar Tagen bin ich gerade mal zehn Minuten weg gedöst als ich träumte, dass Johanna mit dem Hinterkopf auf Beton fällt. Das Geräusch, wie wenn jemand ein Ei aufschlägt, hat mich mit Herzrasen und Panik zurück ins Jetzt geholt. Ich brauchte einen Moment der Orientierung und war unfassbar erleichtert, meine Tochter friedlich schlummernd neben mir zu sehen.
+
+Dieser ganze verweichlichte, ängstliche Quatsch hat aber auch Vorteile. So bin ich viel sozialer geworden. Ich habe viel mehr Verständnis für alles und jeden. Jemand hat keine Zeit, keine Lust, versetzt mich aus welchen Gründen auch immer? Nicht schön aber nicht wichtig genug, um sich darüber aufzuregen. Außerdem bin ich wahnsinnig gut organisiert. Wickeltasche immer vollständig gepackt, Tagesplanung nach den Schlafenszeiten des Babys, Rückmeldetermine für die Krippe, Kinderarzt, Spiele-Verabredungen, Geburtstage, Einkaufslisten, Vorbereitung, Durchführung, Nachbetreuung. Ich hab‘s wirklich drauf! Und jetzt packe ich noch eine Ersatzpackung der Ersatzpackung Taschentücher in die Wickeltasche. Falls Mutti wieder flennt. 
