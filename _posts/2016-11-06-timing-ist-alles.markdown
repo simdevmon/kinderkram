@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 64. Woche: Timing ist alles oder - Papa ist weg{:/}"
+date:   2016-11-06 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw64_teaser.png
+tags:
+---
+**Sonntagnachmittag haben wir meinen Mann verabschiedet. Der ist jetzt für zehn Tage in den Emiraten und wir sind auf uns gestellt. Und diese Tage werden anstrengend für mich!**
+
+<figure>
+  <img src="../../../../../images/bw64.jpg" alt="">
+  <figcaption>Wir zwei auf dem Spielplatz. Den Babybauch kann man kaum noch übersehen.</figcaption>
+</figure>
+
+Ich kann jetzt nicht mehr, wie gewohnt, halb acht in der Arbeit antanzen. In die Krippe kann ich Johanna laut Betreuungsvertrag nämlich frühestens um acht bringen. Bedeutet für uns: 6.15 Uhr klingelt mein Wecker. Eine Viertelstunde kuscheln, aufstehen, anziehen, zusammen frühstücken, Tasche packen und mit dem Radl auf zur Krippe. Dort alle Gespräche im Keim ersticken, Kind verabschieden und zur U-Bahn rasen.
+
+Weil ich knapp eine Stunde Fahrtzeit habe, komme ich mit Ach und Krach und ziemlich unvorbereitet in die 9-Uhr-Konferenz. Das ist Stress pur! Was ich nämlich nicht bedacht habe ist, dass es in U-Bahn und Tram zu der Zeit bumsvoll ist. So richtig eng gequetscht, atme ich gleich am Morgen drei verschiedene Mundgerüche ein, werde geschubst, angeschnauzt und von einem Sitzplatz träume ich. Dabei ist mein Babybauch schon sehr deutlich zu sehen. Doch das interessiert den gemeinen Berufspendler offensichtlich herzlich wenig. Dazu kommt dann Stau auf dem Föhringer Ring. Da fährt der Bus lang, den ich brauche, weil meine Firma mitten in der Pampa liegt. Also komme ich nicht nur auf den letzten Drücker, sondern auch verschwitzt und bis zum Anschlag genervt, mit Bauchschmerzen, in die Arbeit. Ganz toll.
+
+Dann arbeite ich bis 13.30 Uhr ohne Mittagspause durch aber kratze trotzdem viel zu früh die Kurve, weil ich versucht habe, in viereinhalb Stunden, mein Arbeitspensum von sechs Stunden zu quetschen. Halb drei hole ich die Maus aus der Krippe ab. Wir gehen einkaufen, auf den Spielplatz oder aufs Kreisverwaltungsreferat (für den neuen Personalausweis. Ich habe ja einen neuen Namen). Dann geht’s heim, ich bereite Abendessen vor, wir spielen noch ein bisschen, futtern, Badewanne für uns beide (zwei Fliegen mit einer Klappe), Fläschchen und gute Nacht. Dann ist es halb acht. Die Maus schläft, ich fange an, aufzuräumen und skype noch mit meinem Mann. Halb zehn gehe ich schlafen. Nachts muss ich zwei bis drei Mal aufstehen. Zum Schnuller finden, Fläschchen geben oder wickeln. Meistens in genau der Reihenfolge. Um 6.15 Uhr beginnt das Spiel von vorn. Und es geht. Irgendwie. Wir sind so gut organisiert, dass Johanna und ich alles unter einen Hut bekommen. Aber Zeit für irgendwas neben Arbeit oder Kind habe ich komplett nicht. Und die Babybauchschmerzen werden schlimmer sobald ich in Hektik verfalle. Es ist jetzt erst vorgekommen dass zum Beispiel drei Busse ausgefallen sind, während ich ohne Schirm im strömenden Regen an der Studentenstadt stand. Natürlich kam ich viel zu spät in die Arbeit. Das stresst mich!
+
+Beim Vorsorgetermin habe ich das bei meiner Frauenärztin angesprochen und die hat mich für zwei Tage krank geschrieben. Normalerweise wehre ich mich mit Händen und Füßen gegen Krankschreibungen aber mir ging es wirklich nicht gut. Und wie sich herausstellen sollte, war eben diese Krankschreibung ein Glück. Denn einen Tag nach dem Termin hab ich plötzlich gekotzt als gäbe es kein Morgen. Ich konnte nicht mal Wasser bei mir behalten. Und ich habe es zwei Mal nicht mehr bis aufs Klo geschafft. Ist die Schwangerschaftsübelkeit etwa zurück? Ich tippe her auf Noro...  Ich bin fix und fertig. Am Wochenende mache ich nur das Nötigste und meine Tochter zu bespaßen, ist praktisch unmöglich. Mann nicht da, ausgerechnet dieses Wochenende geliebte Nachbarin nicht da und auf mich allein gestellt. Ich bekomme langsam eine Ahnung davon, wie es wäre schwanger und allein erziehend zu sein. Es ist scheiße schwer. Und jede(r) da draußen, der das schafft, ist ein verdammter Held!

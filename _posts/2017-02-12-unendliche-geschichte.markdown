@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 77. Woche: Anderthalb Jahre und die unendliche Geschichte{:/}"
+date:   2017-02-12 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw77_teaser.png
+tags:
+---
+**Mein Baby ist schon so groß! 18 Monate ist sie jetzt geworden und sie ist schon so selbstständig. Das ist praktisch. Denn langsam wird sie zur Unterstützung im Haushalt. Die kann ich auch gut gebrauchen. Denn Haushalt mit Kindern ist wie Tetris, wenn am Ende die Bausteine immer schneller fallen. Und dabei habe ich erst eins!**
+
+<figure>
+  <img src="../../../../../images/bw77.jpg" alt="">
+  <figcaption>Johannas erstes Faschings-Kostüm: Ein Tiger. Dazu gibts auch die passenden Öhrchen aber die halten nie lang auf dem Kopf</figcaption>
+</figure>
+
+Ein Bild, das man praktisch immer vor Augen hat, wenn man unsere Wohnung betritt: Der volle Wäscheständer. Ich freu mich auf die wärmeren und trockeneren Tage, wenn ich die olle Wäsche endlich wieder auf den Balkon ausquartieren kann. Denn diese Wäsche-Geschichte nervt. Derzeit läuft die Maschine im Schnitt drei Mal pro Woche. Das ist im Vergleich zu anderen Familien gar nicht viel aber wenn man, wie ich als Single, nur einmal die Woche oder sogar nur alle zwei Wochen schleppen, aufhängen, abhängen, falten und einsortieren musste, kommt einem das viel vor. Und immer, wenn ich es mal geschafft habe, den leeren Wäscheständer in der Abstellecke zu verstauen, kann ich ihn eigentlich auch schon wieder raus holen. Mit unserem Familienzuwachs, der in rund sieben Wochen kommt, wird es sicher nicht weniger. Dafür sehen die kleinen Sachen auf der Leine aber entzückend aus. Immerhin.
+
+Mit dem Kochen ist es das Gleiche. Ich plane Mahlzeiten und bereite sie zu. An den Wochenenden, wenn alle da sind, steh ich mindestens vier Mal in der Küche. Und wenn nicht alle gleichzeitig Hunger haben, halt noch öfter. Und am liebsten essen meine Liebsten natürlich Gerichte, mit langen Koch- und Garzeiten. Das machen die mit Absicht, echt. Aber wenn die Minestrone, die in Summe zwei Stunden Zeit brauchte, von Mann und Kind mit Begeisterung verschlungen wird, dann mach ich die halt. Von mir aus in zwei Wochen gleich wieder. Aber die Koch-Geschichte ist auch nicht ohne. Ein Kleinkind, ein Vegetarier und eine Schwangere, mit derzeitiger Abneigung gegen warme Gerichte, kulinarisch unter einen Hut zu bringen, ist eine Herausforderung. Johanna wünscht sich noch nichts Konkretes und mein Mann antwortet auf die Frage, was er morgen essen will, immer nur mit: „Was Gutes!“ Ja. Danke fürs Gespräch. Unter der Woche hab ich vormittags immerhin Zeit zum Vorkochen. Dann ist der Abend für mich entspannter weil ich Johanna nicht bespaßen muss, während ich mit scharfen Messern hantiere, um Gemüse zu schnippeln. Aber es wird ein Leben nach Beschäftigungsverbot, Mutterschutz und Elternzeit geben. Ich möchte gern wieder arbeiten. Dann muss wieder alles umorganisiert werden. Aber darum muss ich mir vorerst keinen Kopf machen und außerdem weiß ich, dass wir da auch eine Lösung finden. Die Kids haben da ja auch ganz andere Altersklassen als jetzt.
+
+Naja. Ich will gar nicht meckern. Diese Probleme sind gar keine und das weiß ich auch. Aber irgendwas zum Beschweren muss man ja auch haben. Hat meine Tochter schließlich auch. Willkommen in der Trotzphase heißt es derzeit bei uns. Oder pädagogisch korrekt: Autonomiephase. Sie will halt alles selbst machen. Und weil das nicht immer alles klappt, beziehungsweise nicht schnell genug für ihren Geschmack, wird eben geheult und sich auf den Boden geworfen. Das ist ungewohnt, kann ganz schön anstrengend sein, ist aber ein wichtiger Entwicklungsschritt. Und der hat es in sich! Sie hilft mir beim Tisch decken, Spülmaschine ausräumen und verbietet mir, ihr beim Anziehen zu helfen. Das ist doof für mich, vor allem, wenn wir es eilig haben, aber ich versuche, sie einfach machen zu lassen. Mittlerweile trau ich mich sogar, ihr volle Teller in die Hand zu drücken, die sie dann zum Tisch balanciert. In 80 Prozent der Fälle sogar erfolgreich und ohne etwas runter zu werfen. Ich bin immer wieder beeindruckt von ihren Fähigkeiten!
+
+Mal gucken, was sie nächste Woche plötzlich kann. Ich bin jedenfalls gespannt!

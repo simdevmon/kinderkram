@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 58. Woche: Wochenende in der Notaufnahme{:/}"
+date:   2016-09-25 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw58_teaser.png
+tags:
+---
+**Na toll. Kaum habe ich angefangen wieder zu arbeiten, fiebert meine Maus plötzlich. Am Anfang tippe ich auf Zähne oder gar einen psychosomatischen Hintergrund, aber als dann auch noch ein heftiger Ausschlag dazu kommt, bekomme ich Panik.**
+
+<figure>
+  <img src="../../../../../images/bw58.jpg" alt="">
+  <figcaption>Ein Bild aus der letzten Woche: Es herbstet schon ordentlich. Endlich wieder Zeit für Bärchen-Mützen!</figcaption>
+</figure>
+
+Als ich am zweiten Arbeitstag heim komme, begrüßt mich mein Liebster schon mit der Ansage, dass die Mausi sehr anstrengend gewesen sein soll. Ja gut. Das entlockt mir erstmal kein Mitleid. Da hatte ich auch genügend Tage mit ihr. Doch als ich mein kuschelbedürftiges Baby (das sich wieder weinend auf mich gestürzt hat) so an meiner Halsbeuge fühle, fällt mir auf, dass sie ganz schön warm ist. Sie glüht förmlich! Ab auf den Wickeltisch zum Fieber messen! Das Ergebnis: 39,1°C. Okay. Das ist sogar für ein Baby schon Fieber. Aber noch nicht besorgniserregend. Babys fiebern ja öfter mal aus unterschiedlichen Gründen.
+
+Der Papa hat ein schlechtes Gewissen. Muss er nicht. Ich bin mir sicher, dass er das Fieber nicht verursacht hat. Die Nacht wird anstrengend. Alle zwei Stunden wird Johanna wach und braucht wahlweise einen Schnuller, Trost oder das Fläschchen. Dafür ist das Fieber am Morgen komplett weg. Zum Glück ist Wochenende und ich kann mich intensiv um sie kümmern. Und das scheint nötig zu sein. Falls überhaupt möglich, scheint sie noch anhänglicher zu sein, als sonst. Sie will nur auf den Arm. Und sie ist generell nicht so gut drauf. Sehr weinerlich die kleine Maus. Ob es daran liegt, dass ich die letzten Tage nicht da war? Ich habe ein furchtbar schlechtes Gewissen. Und ich bin genervt. Weil es auch verdammt anstrengend ist, das Baby permanent am Körper zu tragen und zu beschäftigen und trotzdem ist ihr nichts recht.
+
+Die nächste Nacht wird der Horror. Ich bringe Johanna um acht ins Bett. Um neun wird sie schon das erste Mal weinend wach. Nachdem sich das Spiel um zehn wiederholt, beschließe ich, früh ins Bett zu gehen. Sie wird stündlich wach. Um drei Uhr bin ich so genervt, dass ich Johannas Papa wecke und ihn anschnauze, dass er gefälligst auch mal was machen soll. Er ist schlaftrunken und reagiert mir nicht schnell genug. Also stehe ich selbst wieder auf und hasse ihn dafür, dass er einfach so weiterschlafen kann. Die Maus wird auch um vier, fünf und sechs wach, bevor wir um sieben endgültig aufstehen. Ich bin völlig erledigt. Johanna allerdings auch. Sie hat 38°C. Nicht viel aber doch genug, um sich unwohl zu fühlen. Dazu kommt ein schwerer Ausschlag am gesamten Körper. Ach du Scheiße! Sie ist doch gegen alle möglichen Kinderkrankheiten geimpft! Was ist das nur? Mein Freund will morgen mit ihr zum Kinderarzt. Das ist mir zu spät. Was ist, wenn es ihr heute Abend noch schlechter geht und ich nicht weiß, was ich machen soll? Also pack ich mein Kind und wir fahren in die Klinik nach Harlaching.
+
+Öffentlich. Wir haben ja kein Auto. Zum Glück ist Sonntag und kaum was los. Ich mache mir Gedanken, ob wir fremde Leute anstecken könnten. Im Krankenhaus ankommen, müssen wir klingeln. Kinder mit Ausschlag dürfen nicht einfach rein. Verständlich. Nach kurzer Begutachtung werden wir herein gebeten. Wir müssen nicht lange warten, bis ein Arzt kommt. Er schaut sich mein Baby genau an, stellt Fragen und tippt auf einen bereits überstandenen Viruseffekt. Unangenehm aber nicht schlimm. Fürs Dreitagefieber war das Fieber wohl nicht hoch genug und ansteckend dürfte sie auch schon nicht mehr sein. Ich bin erleichtert, auch wenn es der Mausi immer noch nicht perfekt geht. Sie ist noch den ganzen Sonntag quengelig und braucht extra viele Kuscheleinheiten aber die folgende Nacht ist schon deutlich besser. Da kommt sie nur drei Mal an. Gut für mich. Denn kurz vor sechs klingelt wieder der Wecker und ich schleiche zur Arbeit. Ich bin froh, dass gestern Sonntag war und ich den ganzen Tag für Johanna da sein konnte. Ihr geht es auch schon viel besser, schreibt mir mein Liebster in die Arbeit. Trotzdem wäre ich jetzt gern bei ihr. In so einem Zwiespalt werde ich wohl noch öfter landen.

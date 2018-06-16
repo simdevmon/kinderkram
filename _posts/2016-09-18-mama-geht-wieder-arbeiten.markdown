@@ -1,0 +1,23 @@
+---
+title:  "{::nomarkdown}Babys 57. Woche: Mama geht wieder arbeiten{:/}"
+date:   2016-09-18 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw57_arbeiten_teaser.png
+tags:
+---
+**Ich bin ein bisschen aufgeregt vor meinem ersten Arbeitstag. Nach über 14 Monaten, inklusive Mutterschutz und Überbrückungsurlaub, geht’s ab sofort wieder ins Büro. Vollzeit. Was für eine Umstellung! Ob ich mir das wirklich gut überlegt habe?**
+
+<figure>
+  <img src="../../../../../images/bw57_arbeiten.jpg" alt="">
+  <figcaption>Ein kleiner Ausschnitt meines Schreibtisches. Erste Amtshandlung: Fotos aufhängen!</figcaption>
+</figure>
+
+Weil ich ein August-Kind habe, haben wir uns im Vorfeld die perfekte Strategie überlegt. Also schon damals in der Schwangerschaft. Da bin ich peinlich gut durchorganisiert gewesen. Das Krippenjahr startet im September. Ich bekomme 12 Monate Elterngeld, mein Freund zwei Monate. Da wir zwei Monate parallel Elternzeit genommen haben, um zu reisen, ist unsere Elternzeit, also zumindest die bezahlte, nach einem Jahr um. Den August überbrücke ich mit Resturlaub. Im September hat mein Liebster Urlaub. Er macht auch die Eingewöhnung in der Krippe. Denn das könnte ich nicht. Wenn die Kleine weint und „Mama!!“ schreit, nehme ich sie einfach wieder mit nach Hause. So viel dazu.
+
+In der Arbeit gab’s eine Menge Änderungen. Die Hälfte meines alten Teams ist nicht mehr da. Dafür gibt es neue Kollegen. Und technisch hat sich auch einiges getan. Und von den Arbeitsabläufen und überhaupt. Vor all diesen Dingen habe ich allerdings keine Angst. Meine Sorge gilt ausschließlich Johannas und meinem Seelenleben. Wir lieben uns abgöttisch. Meine Maus ist so sehr auf mich fixiert. Wenn der Papa von der Arbeit kommt, bekommt er einen kurzen Blick zugeworfen und das war‘s dann. Oh Gott! Ich würde sterben, wenn sie so auf mich reagieren würde! Außerdem habe ich Angst, dass ich sie so stark vermisse, dass ich heulen muss. In der U-Bahn oder am Schreibtisch. Voll unproffessionell! Aber im Großen und Ganzen freue ich mich auch sehr.
+
+Endlich mal Ruhe! Klingt doof aber ist so. Ich fahre fast eine Stunde mit den Öffentlichen in die Arbeit. Und zurück natürlich auch. Das heißt, ich habe fast zwei Stunden am Tag, in denen ich lesen kann. Am Handy oder Zeitung. Oder Bücher! Oh das vermisse ich wirklich! Daheim kommt immer die Maus und verstellt mir irgendwelche Apps. Außerdem will ich nicht ins Handy starren wenn wir in einem Raum sind. Von wegen Vorbild und so. Lesen ist gar nicht. Das Kind braucht Aufmerksamkeit. Rund um die Uhr!
+
+Was mache ich, wenn die Nächte furchtbar sind? In der Nacht vorm ersten Arbeitstag ist Johanna super brav. Sie kommt nur ein einziges Mal früh um drei an. So viel Schlaf bekomme ich selten! Mein Wecker klingelt kurz vor sechs. Ich brauche ihn nicht, weil ich vorher schon wach werde. Ist wohl doch ein bisschen die Aufregung. Halb sieben werfe ich einen letzten Blick auf meine schlafenden Hasen, dann verlasse ich die Wohnung. Es ist hart, sich nicht verabschieden zu können aber wahrscheinlich sogar entspannter so für alle Beteiligten. Und der erste Arbeitstag vergeht wie im Flug. Nicht viel von wegen erstmal ankommen und so. Nachdem E-Mail und die wichtigsten Log-In-Daten ausgetauscht und eingerichtet sind, geht es auch schon los. Acht Bayernreporter plus Kleinkram am ersten Tag. Alle sind lieb und scheinen sich zu freuen. Ich mich auch! Ich merke, wie sehr mir das Alles gefehlt hat. Es gibt Mütter, die daheim zufrieden sind und welche, die das Arbeitsleben brauchen. Ich gehöre definitiv zur letzten Sorte. Obwohl ich meine Tochter abartig vermisse.
+
+Zu meinen ersten Amtshandlungen gehört Fotos am Rechner aufhängen und ich kämpfe tatsächlich mit den Tränen. Als ich kurz vor halb sechs heim komme, wirkt meine Maus erst geschockt. Sie schaut mich an, bricht in Tränen aus, krabbelt auf meinen Schoß und versenkt ihr Gesicht an meinem Hals. So bleiben wir mindestens zehn Minuten. Jetzt heule ich dann doch. Und das schlechte Gewissen packt mich. Ich habe tatsächlich einen Tag genossen, der für Johanna womöglich ganz furchtbar war. Ihr Papa beruhigt mich. Sie hat mich schon vermisst sagt er. Und ab und an habe sie auch nachgeschaut ob ich vielleicht in Küche oder Bad stecke. Und gefragt habe sie auch mehrfach aber sonst? Sollen die beiden einen schönen Tag gehabt haben. Das beruhigt mich. Aber hundert prozentig glücklich bin ich mit der Situation (noch) nicht...
