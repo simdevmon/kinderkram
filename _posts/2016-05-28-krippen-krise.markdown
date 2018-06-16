@@ -1,0 +1,23 @@
+---
+title:  "{::nomarkdown}Babys 41. Woche: Krippen-Krise{:/}"
+date:   2016-05-28 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw41_krippe_teaser.png
+tags:
+---
+**Einen städtischen Krippenplatz in München zu ergattern, ist so unwahrscheinlich wie ein Sechser im Lotto. Zumindest scheint es so! Denn obwohl ich meine ungeborene Tochter in der 13. Schwangerschaftswoche (!) bereits habe vormerken lassen, heißt das noch lange nicht, dass wir auch irgendwo unterkommen. Erschwerend hinzu kommen meine Zweifel. WILL ich mein Kind überhaupt schon abgeben?**
+
+<figure>
+  <img src="../../../../../images/bw41_krippe.jpg" alt="">
+  <figcaption>Auch ohne Krippe - Ausreichend Kontakt zu Kindern in ihrem Alter hat meine Maus sicher.</figcaption>
+</figure>
+
+Ein Jahr Elternzeit. Danach geht’s wieder Vollzeit in den Job. Das habe ich so beantragt und ich war auch lange davon überzeugt, dass ich es genau so auch machen werde. Immer vorausgesetzt, dass wir überhaupt einen Krippenplatz bekommen. Johanna steht bei sieben Krippen in unserem Dunstkreis auf der Warteliste. Ab dem ersten September soll sie betreut werden, während ich wieder arbeiten gehe. Die fehlenden Tage im August überbrücke ich mit Resturlaub. Das habe ich schon während der Schwangerschaft so ausgetüftelt, denn die Krippen sind hier im August alle zu. Da kann ich mich auf den Kopf stellen und mit den Ohren wackeln. Mein Chef auch. Aber es gibt keine Möglichkeit für mich, Johanna betreuen zu lassen.
+
+In drei Krippen waren wir zur Besichtigung. Und da war eine schöner als die andere! Köchin vor Ort, weiche Babybetten in fantasievollen Formen. Ein Raum mit beruhigender Musik, Wasserspiel und der Möglichkeit, die Kleinen massieren zu lassen, wenn sie Probleme haben, runterzukommen. Ein Garten auf dem weitläufigen Gelände zum Toben... Da würde ich liebend gern zusammen mit Johanna hingehen! Ist aber unwahrscheinlich. In unserer Favoritenkrippe gibt es zum kommenden Krippenjahr fünf freie Plätze. Und die sind voraussichtlich alle Geschwisterkindern vorbehalten. Auf unserem Platz zwei liegt die Krippe auf der anderen Straßenseite. Die haben sechs Plätze. Auch nicht viel. Vor allem, wenn ich daran denke, mit wie vielen Müttern ich allein zu tun habe. Das sind mindestens 30 aus unserer weitläufigen Nachbarschaft. Dreißig! Die auch einen Betreuungsplatz haben wollen! Hilfe!! Was mache ich, wenn ich kurz vor Arbeitsantritt OHNE da stehe?
+
+Doch diese Sorge erweist sich schon mal als unberechtigt. Mit zwei sehr netten Krippenleiterinnen habe ich quartalsweise telefoniert. Und beim letzten Telefonat meint die nette Leiterin, dass sie sich in den nächsten Tagen eh melden wollte. Wir haben den Platz! Ich raste aus!! Wie geil ist das bitte?? Ich bin völlig aufgelöst und bekomme die folgenden Anweisungen nur so halb mit. Wir brauchen jetzt die Bestätigungen unserer Arbeitgeber dass wir zum ersten September beide noch angestellt sind und Gehaltsnachweise. In zwei Wochen treffen wir uns in der Krippe zur Vertragsunterzeichnung. Ich bin selig!
+
+Die Ernüchterung jedoch folgt ziemlich bald. Nämlich am Tag der Vertragsunterzeichnung. Die Krippe ist in einem hässlichen Neubaublock untergebracht und alles ist... naja... alt. Ein bisschen heruntergekommen. Nicht so stylish, so lichtdurchflutet wie die Krippen, die ich besichtigt habe. In dieser hier war ich vorher nicht. Ein Fehler, wie ich jetzt finde. Ich versuche mir die Sache schön zureden. Das Personal ist super nett. Wir haben einen sicheren, städtischen Krippenplatz der nur 2,2 Kilometer von unserem zu Hause entfernt ist. Aber der schale Beigeschmack bleibt. Mein Hauptproblem: Die Kinder kommen nicht jeden Tag vor die Tür. Aber das ist einer von wenigen Punkten, die mir wirklich wichtig sind.
+
+Kann ich das ausgleichen, wenn ich meine Tochter um 17 Uhr abhole? Früher schaffe ich es nämlich auf keinen Fall. 16 Uhr in der Arbeit abzuhauen wäre schon extrem optimistisch gedacht. Dafür müsste ich ganz schön früh anfangen. Und Johanna wäre von acht bis 17 Uhr in fremden Händen. Wenn mein Freund sie morgens bringt. Ich bin da längst im Büro. Puuuhhh, das ist verdammt lang. Zu lange für meinen Geschmack. Es sind nur noch drei Monate und ich habe angefangen, Szenarien in meinem Kopf zu entwickeln. Wie mein Chef wohl reagiert, wenn ich ihm eröffne, dass ich erstmal nur Teilzeit wieder einsteigen will? Ich habe mir 30 Stunden überlegt. Für den Anfang. Es wird sich schnell zeigen, wie wir damit zurecht kommen. Mein Freund, mein Baby und ich. Da hab ich mir alles so schön überlegt und hab überhaupt nicht damit gerechnet, dass all meine Pläne ziemlich für den Arsch sind, wenn der Rest nicht mitzieht...

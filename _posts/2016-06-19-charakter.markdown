@@ -1,0 +1,21 @@
+---
+title:  "{::nomarkdown}Babys 44. Woche: Ist das schon der Charakter?{:/}"
+date:   2016-06-19 10:00:00 +0200
+header:
+  teaser: ../../../../../images/bw44_charakter_teaser.png
+tags:
+---
+**Wir waren gerade eine Woche in Bulgarien. Goldstrand. Babys erster Partyurlaub quasi. Und mein Baby IST absolut partytauglich. Sie flirtet, sie lacht... Ach was. Sie strahlt! Quatscht mit jedem und macht witzige Sachen, von denen sie weiß, dass wir sie dafür loben. Kann man daraus schon schließen, wie sie später mal wird?**
+
+<figure>
+  <img src="../../../../../images/bw44_charakter.jpg" alt="">
+  <figcaption>Soooo groß will Johanna mal werden. Und wie sonst noch?</figcaption>
+</figure>
+
+So ein Urlaub ist perfekt für meine Kleine. Immer Leute um sie herum, die Faxen machen und begeistert auf sie zu stürmen. Das ist mir in Griechenland schon aufgefallen. Da hatten die Leute auch alle keine Berührungsängste. Ungefragt tatschte jeder an meinem Kind herum. In Bulgarien jetzt war es genau das Gleiche. Meine Maus tut aber auch einiges dazu. Wer nicht bei drei auf dem Baum ist, wird mit einem zauberhaften Grübchen-Lächeln bedacht. Wenn ihr jemand besonders sympathisch ist, streckt sie sogar die Ärmchen nach ihm aus. Und ich bin immer noch unentschlossen, ob ich das gut finde oder nicht. Also das mit den Ärmchen schon mal nicht. Das geht mir total auf den Sack. Wenn man sie dann tatsächlich in die Arme einer anderen Person reicht (was ich nur bei Freunden mache weil ich bei Fremden immer die irrationale Angst habe, dass sie sofort mit dem Kind im Arm losrennen), guckt sie irritiert und fängt an zu weinen. Ah ja. Nur gucken, nicht anfassen! Na immerhin.
+
+Die Mahlzeiten waren super anstrengend. In den Hochstühlen des Hotels konnte ich das Kind nicht festschnallen und so hat sie ihre Mahlzeiten praktisch alle harakirimäßig als Stehimbiss zu sich genommen. Gestützt von mir, die so natürlich nicht wirklich selbst zum Essen kam aber wurscht. Meine Tochter musste mit dem ganzen Restaurant flirten. Und wenn ich sie dann endlich mal im Sitzen hatte, kam ein Kellner herbei geeilt und hat ihr die nackten Füßchen gekitzelt. WWWWAAAHHH! Ja spinnt ihr denn alle? Ich bin so froh dass Johanna endlich isst! Und dann kommt alle naselang so ein Horst daher und lenkt sie ab!
+
+Es ist tatsächlich so, dass meine Tochter von heute auf morgen auf gleich zwei Fläschchen verzichten konnte. Mittags haut sie jetzt richtig rein. Total ungewohnt für mich aber ich freue mich riesig! Endlich kommt die Sache in Schwung! Und im Hotel konnte ich so herrlich viele Sachen testen. Aber nochmal zum Verhalten meiner Püppi. Mein Freund hat mich gefragt, ob sie für immer so bleibt. Also dass sie alle toll findet, viel lacht und gern im Mittelpunkt steht. Ich denke schon, dass die Tendenz damit vorgegeben ist. Denn außer meiner kenne ich nur wenige Babys, die auch so fröhlich auf jeden anspringen. Ein vernünftiges Baby lässt sich wenigstens ein paar prüfende Sekunden Zeit bevor es das Lächeln Fremder erwidert. Oder entscheidet es eben nicht zu tun. Oder nicht? 
+
+Und mein Baby braucht Abwechslung. Sonst wird sie quengelig. Zwei komplette Wachphasen (die circa drei bis vier Stunden dauern inzwischen) zu Hause? Bitte nicht. Eine ist okay aber danach müssen wir raus gehen. Na gut. Oder auch die Spiele daheim. Unermüdlich hält sie mir ein Buch nach dem anderen unter die Nase. Die muss ich vorlesen. Der Reihe nach. Dann freut sie sich. Danach geht’s ab in den Krabbeltunnel, dann zum Rutscher, danach zum Bauturm... Vom ersten Augenaufschlag bis zum müde Umfallen immer Vollgas. Das ist ganz schön anstrengend. Aber meiner Süßen darf ich das nicht vorwerfen. Ich bin nämlich kein Stück besser. Das ist krass. Meine Tochter hat jetzt schon so viele Charaktereigenschaften, die ich bestens kenne. Weil ich sie auch habe. Ich bin wirklich gespannt, was davon bleibt und was sich ändert. Was dazu kommt... Und ich hoffe dass sie keine schlechten Erfahrungen machen muss, die dieses fröhliche Geschöpf nachdenklich machen oder gar verbittern lassen können. Aber davor fürchten sich sicher alle Mütterauf der Welt.
