@@ -5,7 +5,7 @@ header:
   teaser: ../../../../../images/profilbild_teaser.png
 tags:
 ---
-**Manche haben schon nachgefragt. Was da los ist und warum es keine neuen Beiträgen mehr auf antenne.de git. Hier kommt die Erklärung.**
+**Manche haben schon nachgefragt. Was da los ist und warum es keine neuen Beiträgen mehr auf antenne.de gibt. Hier kommt die Erklärung.**
 
 Zum Auftakt: Ja, mein Blog wird nicht mehr auf antenne.de fortgeführt. Das hat ziemlich viele Gründe, auf die ich gerade noch nicht näher eingehen kann. Fakt ist aber, dass ich unter www.katjaskinderkram.de weiterhin von mir und meinen Mädels berichte. Denn zu berichten gibt es eine Menge! Das Leben wird ja nicht weniger spannend, wenn die Kinder älter werden und man sich beruflich wieder neu aufstellt! 
 
