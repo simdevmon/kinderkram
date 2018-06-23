@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Maul stopfen{:/}"
-date:   2017-05-29 10:00:00 +0200
+date:   2017-06-27 10:00:00 +0200
 header:
   teaser: ../../../../../images/alm_teaser.png
 tags:
