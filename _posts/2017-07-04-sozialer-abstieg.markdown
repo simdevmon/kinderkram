@@ -2,13 +2,13 @@
 title:  "{::nomarkdown}Kinder und Sozialer Abstieg{:/}"
 date:   2017-07-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/papas_prizessin_teaser.png
+  teaser: ../../../../../images/papas_prinzessin_teaser.png
 tags:
 ---
 **Eigentlich hätte ich gerne vier Kinder. Warum? Keine Ahnung. Kinder sind Herzenssache. Da braucht es nicht immer rationale Erklärungen. Doch diesen Wunsch werden wir uns nicht erfüllen. Denn wir können es uns nicht leisten.**
 
 <figure>
-  <img src="../../../../../images/papas_prizessin.png" alt="">
+  <img src="../../../../../images/papas_prinzessin.png" alt="">
   <figcaption>Pink die Strumphose, Glitzer an den Schuhen und natürlich ein Kleid. Meine Tochter ist eine Tussi. Kann man nicht anders sagen.</figcaption>
 </figure>
 
