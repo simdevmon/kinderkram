@@ -9,7 +9,7 @@ tags:
 
 <figure>
   <img src="../../../../../images/schlafen_schwimmbad.png" alt="">
-  <figcaption>Pink die Strumphose, Glitzer an den Schuhen und natürlich ein Kleid. Meine Tochter ist eine Tussi. Kann man nicht anders sagen.</figcaption>
+  <figcaption>Wenn sie beide gleichzeitig schlafen, hab ich definitiv beide gleich lieb.</figcaption>
 </figure>
 
 

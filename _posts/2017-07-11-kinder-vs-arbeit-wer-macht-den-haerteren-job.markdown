@@ -9,7 +9,7 @@ tags:
 
 <figure>
   <img src="../../../../../images/abendessen.png" alt="">
-  <figcaption>Pink die Strumphose, Glitzer an den Schuhen und natürlich ein Kleid. Meine Tochter ist eine Tussi. Kann man nicht anders sagen.</figcaption>
+  <figcaption>Das Abendessen ist unsere Hauptmahlzeit und kommt täglich frisch auf den Tisch. Warum? Machen gute Mamas so. Oder nicht?</figcaption>
 </figure>
 
 
