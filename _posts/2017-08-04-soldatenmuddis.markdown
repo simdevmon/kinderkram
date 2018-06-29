@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Soldaten-Muddis{:/}"
-date:   2017-07-18 10:00:00 +0200
+date:   2017-08-04 10:00:00 +0200
 header:
   teaser: ../../../../../images/schwimmeis_teaser.png
 tags:
