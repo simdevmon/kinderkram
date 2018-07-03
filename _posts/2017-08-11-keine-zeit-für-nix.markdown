@@ -9,7 +9,7 @@ tags:
 
 <figure>
   <img src="../../../../../images/schwimmbad.png" alt="">
-  <figcaption>Das Highlight eines jeden Schwimmbadbesuches: Eis!</figcaption>
+  <figcaption>Jawoll, ich habe das Tragetuch auch in einer anderen Farbe. Das Pinke war voll gekotzt.</figcaption>
 </figure>
 
 
