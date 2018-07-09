@@ -5,7 +5,7 @@ header:
   teaser: ../../../../../images/pinguine_teaser.png
 tags:
 ---
-**Ich bin gut organisiert. Drei mal die Woche Sport, jeden Tag kochen, manchmal backen. Ein Baby und ein Kleinkind, die wunderbar unterhalten werden. Ein Mann, der sich um herrlich wenig Dinge kümmern muss und jede Menge Zwischenmenschliches im Kopf. Warum zum Henker fühle ich mich als Hausfrau und Mutter trotzdem so wertlos?**
+**Ich bin gut organisiert. Drei mal die Woche Sport, jeden Tag kochen, manchmal backen. Ein Baby und ein Kleinkind, die wunderbar unterhalten werden. Ein Mann, der sich um herrlich wenig Dinge kümmern muss und jede Menge Zwischenmenschliches im Kopf. Warum zum Henker fühle ich mich trotzdem so wertlos?**
 
 <figure>
   <img src="../../../../../images/pinguine.png" alt="">

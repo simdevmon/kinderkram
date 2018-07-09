@@ -5,8 +5,7 @@ header:
   teaser: ../../../../../images/olli_teaser.png
 tags:
 ---
-**
-Elternschaft verändert Menschen. Soweit überrascht das nicht. Vorher sagt einem aber auch keiner, dass man echte Superkräfte entwickelt. Beispiele gefällig? Wie wäre es mit stumm schreien?**
+**Elternschaft verändert Menschen. Soweit überrascht das nicht. Vorher sagt einem aber auch keiner, dass man echte Superkräfte entwickelt. Beispiele gefällig? Wie wäre es mit stumm schreien?**
 
 <figure>
   <img src="../../../../../images/olli.png" alt="">
