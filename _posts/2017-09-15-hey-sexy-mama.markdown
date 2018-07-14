@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Hey sexy Mama!{:/}"
 date:   2017-09-15 10:00:00 +0200
 header:
   teaser: ../../../../../images/dirndl_teaser.png
-tags:
+tags: ["Gesundheit & Fitness", "Sozialleben", "Baby", "Kleinkind"]
 ---
 **Der Körper hat eine Wahnsinns-Leistung vollbracht. Das Kind ist im Idealfall gesund und entzückend anzuschauen. Und was machen wir Weiber? Genau. Hadern mit der Figur. Sind wir eigentlich alle bekloppt?**
 
