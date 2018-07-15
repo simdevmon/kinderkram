@@ -1,10 +1,8 @@
-# main links
-main:
-  - title: "Beiträge"
+--- 
+main: 
+  - 
+    title: Beiträge
     url: /
-  - title: "Über mich"
+  - 
+    title: "Über mich"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  #- title: "Sitemap"
-  #  url: /sitemap/
