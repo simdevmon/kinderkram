@@ -19,9 +19,9 @@ locale                   : "de"
 title                    : "Katjas Kinderkram - Der Mama-Blog"
 title_separator          : "-"
 name                     : "Katja Narkprasert"
-description              : "Ich bin Katja und Mama meiner zwei Zauberrüben. 20 Monate Abstand sind mitunter verdammt anstrengend. Aber auch verdammt lustig und schön. Wenn da nur nicht so viele Baustellen wären im Muddiversum! Von Milchvampiren, der Neuorientierung im Berufsleben, dem Scheitern und Lachen. Viel Spaß beim Lesen!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Ich bin Katja und Mama meiner zwei ZauberrÃ¼ben. 20 Monate Abstand sind mitunter verdammt anstrengend. Aber auch verdammt lustig und schÃ¶n. Wenn da nur nicht so viele Baustellen wÃ¤ren im Muddiversum! Von Milchvampiren, der Neuorientierung im Berufsleben, dem Scheitern und Lachen. Viel SpaÃŸ beim Lesen!"
+url                      : "https://simdevmon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/kinderkram" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -103,7 +103,7 @@ author:
   name             : "Katja Narkprasert"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "München"
+  location         : "MÃ¼nchen"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
