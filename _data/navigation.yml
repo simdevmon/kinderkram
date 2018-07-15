@@ -1,8 +1,10 @@
---- 
-main: 
-  - 
-    title: Beitr‰ge
+# main links
+main:
+  - title: "Beitr√§ge"
     url: /
-  - 
-    title: "‹ber mich"
+  - title: "√úber mich"
     url: /about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemap/
