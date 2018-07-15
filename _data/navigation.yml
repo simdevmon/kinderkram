@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Beitr√§ge"
+  - title: "Beitr‰ge"
     url: /
-  - title: "√úber mich"
+  - title: "‹ber mich"
     url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  #- title: "Sitemap"
-  #  url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
